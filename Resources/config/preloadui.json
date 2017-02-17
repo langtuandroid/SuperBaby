@@ -1,0 +1,23 @@
+{
+  "textures":
+  [
+    "res/common/fanhui_guanbi.png",
+    "res/common/npcArrow.png"
+  ],
+  "gafs":
+  [
+    "res/common/Aimee/Aimee-zuhe.gaf",
+    "res/common/Bebei/Bebei-zuhe.gaf",
+    "res/common/ui/beibao-D+C1+C2/beibao-D+C1+C2.gaf",
+    "res/npc/NPC-pingtai/NPC-pingtai.gaf"
+  ],
+  "plists":
+  [
+    "res/common/fanhui_guanbi.plist",
+    "res/common/SZ3.plist",
+    "res/common/SZ1.plist",
+    "res/common/SZ2.plist",
+    "res/common/SZ4.plist",
+    "res/common/SZ6.plist"
+  ]
+}

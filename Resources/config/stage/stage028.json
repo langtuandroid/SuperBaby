@@ -1,0 +1,178 @@
+{
+  "index":27,
+  "AimeePosX": 170,
+  "AimeePosY": 776,
+  "BebeiPosX": -50,
+  "BebeiPosY": 760,
+  "djcf":"res/common/HY-GK-shuihua/HY-GK-shuihua.gaf",
+  "emptyRound":
+  [
+    0
+  ],
+  "saudio":"res/audio/theme03/stage028/HY-GK04-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme03/stage028/HY-GK04-YX1.mp3",
+      "time": 8
+    },
+    {
+      "source":"res/audio/theme03/stage028/HY-GK04-YX2.mp3",
+      "time": 10
+    },
+    {
+      "source":"res/audio/theme03/stage028/HY-GK04-YX3.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme03/stage028/HY-GK04-YX4.mp3",
+      "time": 7
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file":"res/stage028/HY-GK04-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage028/HY-GK04-BG01-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage028/HY-GK04-BG01-03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage028/HY-GK04-BG01-04.png"
+    }
+  ],
+  "foreImg":
+  [
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing01.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_001.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_002.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_003.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_004.png"
+    }
+   ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 0
+    },
+    {
+      "orient": 1,
+      "scroll": 500
+    },
+    {
+      "orient": 1,
+      "scroll": 2920
+    },
+    {
+      "orient": 1,
+      "scroll": 3300
+    },
+    {
+      "orient": 1,
+      "scroll": 3000
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 0
+    },
+    {
+      "orient": 1,
+      "scroll": -1100
+    },
+    {
+      "orient": 1,
+      "scroll": -2920
+    },
+    {
+      "orient": 1,
+      "scroll": -3300
+    },
+    {
+      "orient": 1,
+      "scroll": -3000
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 1,
+      "posX": 800,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 900,
+      "text": "哇！泡泡鱼吐出了好多泡泡啊，真漂亮！将这个算式补充完整吧！"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 800,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 920,
+      "text": "一群鱼在到处找吃的，咦，怎么有一条鱼游的方向不一样呢？快把它找出来吧！"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 710,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "小朋友，下面哪一只螃蟹带的手套和其它螃蟹不一样呢？"
+    },
+    {
+      "roundIndex": 4,
+      "posX": 710,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "这个长着一双大脚的小海怪丢了一只鞋，你能帮它找到吗？"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage028/HY-GK04-IT.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage028/HY-GK04-1-MS01/HY-GK04-1-MS01.gaf",
+    "res/stage028/HY-GK04-2-MS01-D/HY-GK04-2-MS01-D.gaf",
+    "res/stage028/HY-GK04-2-MS02-D/HY-GK04-2-MS02-D.gaf",
+    "res/stage028/HY-GK04-3-MS01/HY-GK04-3-MS01.gaf",
+    "res/stage028/HY-GK04-3-MS02/HY-GK04-3-MS02.gaf",
+    "res/stage028/HY-GK04-4-MS01/HY-GK04-4-MS01.gaf",
+    "res/stage028/HY-GK-paopao01/HY-GK-paopao01.gaf",
+    "res/stage028/HY-GK-guang/HY-GK-guang.gaf"
+  ]
+}

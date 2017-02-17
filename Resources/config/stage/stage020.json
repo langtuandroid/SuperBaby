@@ -1,0 +1,146 @@
+{
+  "index":19,
+  "AimeePosX": 170,
+  "AimeePosY": 856,
+  "BebeiPosX": -50,
+  "BebeiPosY": 840,
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme02/stage020/XQ-GK08-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme02/stage020/XQ-GK08-YX1.mp3",
+      "time": 8
+    },
+    {
+      "source":"res/audio/theme02/stage020/XQ-GK08-YX2.mp3",
+      "time": 13
+    },
+    {
+      "source":"res/audio/theme02/stage020/XQ-GK08-YX3.mp3",
+      "time": 8
+    },
+    {
+      "source":"res/audio/theme02/stage020/XQ-GK08-YX4.mp3",
+      "time": 11
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage020/XQ-GK08-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage020/XQ-GK08-BG01-02.png"
+    },
+    {
+      "tileOrient": 2,
+      "file": "res/stage020/XQ-GK08-BG01-03.png",
+      "upDown": 1,
+      "leftPadding": 0,
+      "rightPadding": 0
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage020/XQ-GK08-BG01-04.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage020/XQ-GK08-BG01-05.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1280
+    },
+    {
+      "orient": 1,
+      "scroll": 3040
+    },
+    {
+      "orient": 1,
+      "scroll": 1800
+    },
+    {
+      "orient": 1,
+      "scroll": 2800
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1280
+    },
+    {
+      "orient": 1,
+      "scroll": -3040
+    },
+    {
+      "orient": 2,
+      "scroll": -1800,
+      "bgImgIndex": 2,
+      "vscroll": -1536
+    },
+    {
+      "orient": 1,
+      "scroll": -2800
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 735,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "这个机器人的手还没有组装好，你能找到合适的帮它装上去吗？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "哇！这里还有两个好可爱的双胞胎机器人啊！有一个已经组装好了，另一个还差一些零件，快来帮它组装好吧。"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "机器人胸前还缺少一个能量电池，你能根据图形找到合适的吗？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "这里的机器人真是太多了，艾米想挑一个黄色的小机器人带回Abel星球，你能帮他找出来吗？"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage020/XQ-GK08-IT.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage020/XQ-GK08-1-MS-D+C/XQ-GK08-1-MS-D+C.gaf",
+    "res/stage020/XQ-GK08-2-MS-D+C/XQ-GK08-2-MS-D+C.gaf",
+    "res/stage020/XQ-GK08-3-MS-D+C/XQ-GK08-3-MS-D+C.gaf",
+    "res/stage020/XQ-GK08-4-MS01/XQ-GK08-4-MS01.gaf",
+    "res/stage020/XQ-GK08-4-MS02/XQ-GK08-4-MS02.gaf",
+    "res/stage020/XQ-GK08-4-MS03-D+C/XQ-GK08-4-MS03-D+C.gaf"
+  ]
+}

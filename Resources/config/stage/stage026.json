@@ -1,0 +1,175 @@
+{
+  "index":25,
+  "AimeePosX": 170,
+  "AimeePosY": 876,
+  "BebeiPosX": -50,
+  "BebeiPosY": 860,
+  "npcRounds":
+  [
+     2
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme03/stage026/HY-GK02-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme03/stage026/HY-GK02-YX1.mp3",
+      "time": 8
+    },
+    {
+      "source":"res/audio/theme03/stage026/HY-GK02-YX2.mp3",
+      "time": 8
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme03/stage026/HY-GK02-YX3.mp3",
+      "time": 5
+    },
+    {
+      "source":"res/audio/theme03/stage026/HY-GK02-YX4.mp3",
+      "time": 9
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file":"res/stage026/HY-GK02-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage026/HY-GK02-BG01-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage026/HY-GK02-BG01-03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage026/HY-GK02-BG01-04.png"
+    }
+  ],
+  "foreImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage025/HY-GK-qianjing_01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage025/HY-GK-qianjing_02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage025/HY-GK-qianjing_03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage025/HY-GK-qianjing_04.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage025/HY-GK-qianjing_05.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 700
+    },
+    {
+      "orient": 1,
+      "scroll": 3960
+    },
+    {
+      "orient": 1,
+      "scroll": 1820
+    },
+    {
+      "orient": 1,
+      "scroll": 1000
+    },
+    {
+      "orient": 1,
+      "scroll": 3500
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -700
+    },
+    {
+      "orient": 1,
+      "scroll": -3960
+    },
+    {
+      "orient": 1,
+      "scroll": -1820
+    },
+    {
+      "orient": 1,
+      "scroll": -1000
+    },
+    {
+      "orient": 1,
+      "scroll": -3500
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 840,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 960,
+      "text": "这两座沙滩城堡有三处不同，你看出来了吗？把不同的地方找出来吧！"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "艾米和蓓蓓看到对面来了几艘船，哪一艘船离他们最近呢？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 710,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "想想看，这艘船是由哪几部分组成的?"
+    },
+    {
+      "roundIndex": 4,
+      "posX": 800,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 920,
+      "text": "小海龟在拼一个彩蛋，但是还缺少一块，你能找出合适的将它补充完整吗？"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage026/HY-GK02-IT.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage026/HY-GK02-2-IT01/HY-GK02-2-IT01.gaf",
+    "res/stage026/HY-GK02-2-IT02/HY-GK02-2-IT02.gaf",
+    "res/stage026/HY-GK02-2-IT03/HY-GK02-2-IT03.gaf",
+    "res/stage026/HY-GK02-4-MS01/HY-GK02-4-MS01.gaf",
+    "res/stage025/HY-GK-boguang/HY-GK-boguang.gaf"
+  ]
+}

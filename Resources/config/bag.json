@@ -1,0 +1,22 @@
+{
+  "gafFile":"res/common/ui/beibao-D+C1+C2/beibao-D+C1+C2.gaf",
+  "posX":-140,
+  "posY":325,
+  "scaleFactor":1.0,
+  "size":{"w":236 ,"h":222},
+  "sequenceAlias":
+  [
+    {
+      "alias":"standby",
+      "sequence":"beibao-D"
+    },
+    {
+      "alias":"triggerone",
+      "sequence":"beibao-C1"
+    },
+    {
+      "alias":"triggertwo",
+      "sequence":"beibao-C2"
+    }
+  ]
+}

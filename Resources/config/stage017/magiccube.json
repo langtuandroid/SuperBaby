@@ -1,0 +1,22 @@
+{
+  "gafFile":"res/stage017/XQ-GK05-2-MS-D+C/XQ-GK05-2-MS-D+C.gaf",
+  "posX":-532,
+  "posY":1066,
+  "scaleFactor":1.0,
+  "size":
+  {
+    "w":540,
+    "h":440
+  },
+  "sequenceAlias":
+  [
+    {
+      "alias":"standby",
+      "sequence":"XQ-GK05-2-MS-D"
+    },
+    {
+      "alias":"trigger",
+      "sequence":"XQ-GK05-2-MS-C"
+    }
+  ]
+}

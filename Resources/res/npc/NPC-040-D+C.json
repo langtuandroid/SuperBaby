@@ -1,0 +1,27 @@
+{
+  "key":"NPC-040",
+  "gafFile":"res/npc/NPC-040-D+C/NPC-040-D+C.gaf",
+  "posX":-901,
+  "posY":896,
+  "scaleFactor":1.0,
+  "size":
+  {
+    "w":240,
+    "h":300
+  },
+  "sequenceAlias":
+  [
+    {
+      "alias":"sleep",
+      "sequence":"NPC-040-Y"
+    },
+    {
+      "alias":"standby",
+      "sequence":"NPC-040-D"
+    },
+    {
+      "alias":"trigger",
+      "sequence":"NPC-040-C"
+    }
+  ]
+}

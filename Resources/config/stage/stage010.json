@@ -1,0 +1,132 @@
+{
+  "index": 9,
+  "AimeePosX": 170,
+  "AimeePosY": 802,
+  "BebeiPosX": -50,
+  "BebeiPosY": 796,
+  "npcRounds":
+  [
+    0
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme01/stage010/SL-GK10-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme01/stage010/SL-GK10-YX1.mp3",
+      "time": 9
+    },
+    {
+      "source":"res/audio/theme01/stage010/SL-GK10-YX2.mp3",
+      "time": 4
+    },
+    {
+      "source":"res/audio/theme01/stage010/SL-GK10-YX3.mp3",
+      "time": 9
+    },
+    {
+      "source":"res/audio/theme01/stage010/SL-GK10-YX4.mp3",
+      "time": 9
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage010/SL-GK010-BJ_001.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage010/SL-GK010-BJ_002.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage010/SL-GK010-BJ_003.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage010/SL-GK010-BJ_004.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+       "orient": 1,
+       "scroll": 1200
+    },
+    {
+      "orient": 1,
+      "scroll": 2330
+    },
+    {
+      "orient": 1,
+      "scroll": 2300
+    },
+    {
+      "orient": 1,
+      "scroll": 2750
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1200
+    },
+    {
+      "orient": 1,
+      "scroll": -2330
+    },
+    {
+      "orient": 1,
+      "scroll": -2300
+    },
+    {
+      "orient": 1,
+      "scroll": -2750
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 800,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 920,
+      "text": "机器人给自己的小汽车拍了几张不同角度的照片，你知道哪一张是侧面的吗？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 630,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 600,
+      "text": "这根绳子一拉会有几个结呢？"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 800,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 920,
+      "text": "森林中有一只很奇怪的动物，仔细看看它身上的特征，你能想到哪些动物呢？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 730,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 780,
+      "text": "这只大章鱼丢了一只手套，你能帮它找到手套吗？不然它要生气了！"
+    }
+   ],
+   "preloadImgs":
+   [
+     "res/stage011/SL-GK11-1-IT01.png"
+   ]
+}

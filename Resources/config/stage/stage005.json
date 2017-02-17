@@ -1,0 +1,176 @@
+{
+  "index": 4,
+  "AimeePosX": 170,
+  "AimeePosY": 866,
+  "BebeiPosX": -50,
+  "BebeiPosY": 850,
+  "npcRounds":
+  [
+    1,
+    4
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme01/stage005/SL-GK05-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme01/stage005/SL-GK05-YX1.mp3",
+      "time": 11
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme01/stage005/SL-GK05-YX2.mp3",
+      "time": 9
+    },
+    {
+      "source":"res/audio/theme01/stage005/SL-GK05-YX3.mp3",
+      "time": 10
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme01/stage005/SL-GK05-YX4.mp3",
+      "time": 10
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage005/SL-GK05-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage005/SL-GK05-BG01-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage005/SL-GK05-BG01-03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage005/SL-GK05-BG01-04.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage005/SL-GK05-BG01-05.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1230
+    },
+    {
+      "orient": 1,
+      "scroll": 2830
+    },
+    {
+      "orient": 1,
+      "scroll": 1000
+    },
+    {
+      "orient": 1,
+      "scroll": 2890
+    },
+    {
+      "orient": 1,
+      "scroll": 2000
+    },
+    {
+      "orient": 1,
+      "scroll": 2050
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1230
+    },
+    {
+      "orient": 1,
+      "scroll": -2830
+    },
+    {
+      "orient": 1,
+      "scroll": -1000
+    },
+    {
+      "orient": 1,
+      "scroll": -2890
+    },
+    {
+      "orient": 1,
+      "scroll": -2000
+    },
+    {
+      "orient": 1,
+      "scroll": -2050
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 810,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 940,
+      "text": "蓓蓓想要采两朵一样的花朵送给妈妈，下面哪两朵是一样的呢？帮助蓓蓓找出来吧！"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 710,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "花瓣上有很多瓢虫，哪一只才是七星瓢虫呢？赶紧找出来吧！"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 840,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 990,
+      "text": "不好，前面村庄有房子着火了，小朋友快点帮助艾米和蓓蓓拨打正确的救火电话号码吧！"
+    },
+    {
+      "roundIndex": 5,
+      "posX": 750,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "小猴子玩堆积木，被人拿走了两块，现在还有三块，那么原来有几块呢？"
+    }
+   ],
+    "preloadImgs":
+    [
+     "res/stage005/SL-GK05-IT.png"
+    ],
+    "preloadGafs":
+    [
+     "res/stage005/SL-GK05-1-IT01/SL-GK05-1-IT01.gaf",
+     "res/stage005/SL-GK05-1-TM01-D/SL-GK05-1-TM01-D.gaf",
+     "res/stage005/SL-GK05-1-TM02-D/SL-GK05-1-TM02-D.gaf",
+     "res/stage005/SL-GK05-1-TM03-D/SL-GK05-1-TM03-D.gaf",
+     "res/stage005/SL-GK05-1-TM04-D/SL-GK05-1-TM04-D.gaf",
+     "res/stage005/SL-GK05-1-TM05-D/SL-GK05-1-TM05-D.gaf",
+     "res/stage005/SL-GK05-2-TM01-C/SL-GK05-2-TM01-C.gaf",
+     "res/stage005/SL-GK05-3-BGA01-C/SL-GK05-3-BGA01-C.gaf",
+     "res/stage005/SL-GK05-3-BGA01-D/SL-GK05-3-BGA01-D.gaf",
+     "res/stage005/SL-GK05-3-BGA01-D+C/SL-GK05-3-BGA01-D+C.gaf",
+     "res/stage005/SL-GK05-3-MS01-D+C/SL-GK05-3-MS01-D+C.gaf",
+     "res/stage005/SL-GK05-4-MS01-D+C/SL-GK05-4-MS01-D+C.gaf"
+    ]
+}

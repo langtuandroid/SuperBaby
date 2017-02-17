@@ -1,0 +1,186 @@
+{
+  "index":24,
+  "AimeePosX": 170,
+  "AimeePosY": 836,
+  "BebeiPosX": -50,
+  "BebeiPosY": 820,
+  "npcRounds":
+  [
+     1,
+     4
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme03/stage025/HY-GK01-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme03/stage025/HY-GK01-YX1.mp3",
+      "time": 5
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme03/stage025/HY-GK01-YX2.mp3",
+      "time": 9
+    },
+    {
+      "source":"res/audio/theme03/stage025/HY-GK01-YX3.mp3",
+      "time": 7
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme03/stage025/HY-GK01-YX4.mp3",
+      "time": 8
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage025/HY-GK01-BG_01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage025/HY-GK01-BG_02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage025/HY-GK01-BG_03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage025/HY-GK01-BG_04.png"
+    }
+  ],
+  "foreImg":
+  [
+   {
+     "tileOrient": 1,
+     "file": "res/stage025/HY-GK-qianjing_01.png"
+   },
+   {
+     "tileOrient": 1,
+     "file": "res/stage025/HY-GK-qianjing_02.png"
+   },
+   {
+     "tileOrient": 1,
+     "file": "res/stage025/HY-GK-qianjing_03.png"
+   },
+   {
+     "tileOrient": 1,
+     "file": "res/stage025/HY-GK-qianjing_04.png"
+   },
+   {
+     "tileOrient": 1,
+     "file": "res/stage025/HY-GK-qianjing_05.png"
+   }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1260
+    },
+    {
+      "orient": 1,
+      "scroll": 1800
+    },
+    {
+      "orient": 1,
+      "scroll": 1550
+    },
+    {
+      "orient": 1,
+      "scroll": 3130
+    },
+    {
+      "orient": 1,
+      "scroll": 1930
+    },
+    {
+      "orient": 1,
+      "scroll": 800
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1260
+    },
+    {
+      "orient": 1,
+      "scroll": -1800
+    },
+    {
+      "orient": 1,
+      "scroll": -1550
+    },
+    {
+      "orient": 1,
+      "scroll": -3130
+    },
+    {
+      "orient": 1,
+      "scroll": -1930
+    },
+    {
+      "orient": 1,
+      "scroll": -800
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 670,
+      "posY": 1230,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 690,
+      "text": "远处有三座塔楼，哪座塔楼最高呢？"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 735,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "天空中有好多海鸟啊，你看它们多么快乐呀！数一数一共有多少只海鸟呢？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "这些椰子树有高有矮，哪一棵椰子树结的椰果最多呢？"
+    },
+    {
+      "roundIndex": 5,
+      "posX": 700,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "沙滩上有三只海星，根据身体的大小帮它们找回自己的家吧！"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage025/HY-GK01-IT.png"
+  ],
+    "preloadGafs":
+  [
+    "res/stage025/HY-GK01-1-chuan-D/HY-GK01-1-chuan-D.gaf",
+    "res/stage025/HY-GK01-2-TM01-D/HY-GK01-2-TM01-D.gaf",
+    "res/stage025/HY-GK-boguang/HY-GK-boguang.gaf"
+ ]
+}

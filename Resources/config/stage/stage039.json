@@ -1,0 +1,166 @@
+{
+  "index":38,
+  "AimeePosX": 170,
+  "AimeePosY": 736,
+  "BebeiPosX": -50,
+  "BebeiPosY": 720,
+  "npcRounds":
+  [
+     1
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme04/stage039/GC-GK03-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme04/stage039/GC-GK03-YX1.mp3",
+      "time": 9
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme04/stage039/GC-GK03-YX2.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme04/stage039/GC-GK03-YX3.mp3",
+      "time": 6
+    },
+    {
+      "source":"res/audio/theme04/stage039/GC-GK03-YX4.mp3",
+      "time": 13
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage039/GC-GK03-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage039/GC-GK03-BG01-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage039/GC-GK03-BG01-03.png"
+    },
+    {
+      "tileOrient": 2,
+      "file": "res/stage039/GC-GK03-BG01-04.png",
+      "upDown": 2
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage039/GC-GK03-BG01-05.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage039/GC-GK03-BG01-06.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage039/GC-GK03-BG01-07.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1100
+    },
+    {
+      "orient": 1,
+      "scroll": 1500
+    },
+    {
+      "orient": 1,
+      "scroll": 1400
+    },
+    {
+      "orient": 1,
+      "scroll": 2200
+    },
+    {
+      "orient": 1,
+      "scroll": 2600
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1100
+    },
+    {
+      "orient": 1,
+      "scroll": -1500
+    },
+    {
+      "orient": 1,
+      "scroll": -1400
+    },
+    {
+      "orient": 2,
+      "scroll": -2900,
+      "bgImgIndex": 3,
+      "vscroll": 1565
+    },
+    {
+      "orient": 1,
+      "scroll": -2600
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 700,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "角落里停着一辆小推车，小推车的零件坏了，请找出合适的零件安装上去吧。"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 735,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "这里有很多小动物的照片，你能帮小猴子把它的照片找出来吗？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "按照货架上面的颜色分类，将物品放回相应的位置吧！"
+    },
+    {
+      "roundIndex": 4,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "小矮人给艾米和蓓蓓出了一道题，把数字填入空白处，使等式成立。答对了小矮人才会打开古城的大门哦。"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage039/GC-GK03-TM.png",
+    "res/stage039/GC-GK03-2-IT.png",
+    "res/stage039/GC-GK03-4-MEN-1.png",
+    "res/stage039/GC-GK03-4-MEN-3.png"
+  ],
+    "preloadGafs":
+  [
+    "res/stage039/GC-GK03-4-MS/GC-GK03-4-MS.gaf"
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "index":15,
+  "AimeePosX": 170,
+  "AimeePosY": 876,
+  "BebeiPosX": -50,
+  "BebeiPosY": 860,
+  "npcRounds":
+  [
+    0,
+    3
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme02/stage016/XQ-GK04-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme02/stage016/XQ-GK04-YX1.mp3",
+      "time": 14
+    },
+    {
+      "source":"res/audio/theme02/stage016/XQ-GK04-YX2.mp3",
+      "time": 11
+    },
+    {
+      "source":"res/audio/theme02/stage016/XQ-GK04-YX3.mp3",
+      "time": 6
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme02/stage016/XQ-GK04-YX4.mp3",
+      "time": 9
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage016/XQ-GK04-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage016/XQ-GK04-BG01-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage016/XQ-GK04-BG01-03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage016/XQ-GK04-BG01-04.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1240
+    },
+    {
+      "orient": 1,
+      "scroll": 2940
+    },
+    {
+      "orient": 1,
+      "scroll": 2900
+    },
+    {
+      "orient": 1,
+      "scroll": 1500
+    },
+    {
+      "orient": 1,
+      "scroll": 2700
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1240
+    },
+    {
+      "orient": 1,
+      "scroll": -2940
+    },
+    {
+      "orient": 1,
+      "scroll": -2900
+    },
+    {
+      "orient": 1,
+      "scroll": -1500
+    },
+    {
+      "orient": 1,
+      "scroll": -2700
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 940,
+      "posY": 1230,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 1180,
+      "text": "守门的机器人蓝铁皮给艾米和蓓蓓出了个难题，需要他们把从左往右第3个物品拿给它，你能帮他们找出来吗？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 735,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "这块板子上面有一张蝴蝶贴纸，但是另一半不见了，你能找出正确的把它补充完整吗？"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "将所缺的地方补充完整，并使得算式成立哦！"
+    },
+    {
+      "roundIndex": 4,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "外星人大眼兽给大家准备了一个椭圆形的神秘玩具，你能找到它吗？"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage016/XQ-GK04-IT.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage016/XQ-GK04-1-MS01-D+C/XQ-GK04-1-MS01-D+C.gaf",
+    "res/stage016/XQ-GK04-1-TM01-D+C/XQ-GK04-1-TM01-D+C.gaf",
+    "res/stage016/XQ-GK04-4-MS01-D+C/XQ-GK04-4-MS01-D+C.gaf",
+    "res/stage016/XQ-GK04-4-NPC01-D/XQ-GK04-4-NPC01-D.gaf"
+  ]
+}

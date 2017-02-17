@@ -1,0 +1,27 @@
+{
+  "key":"NPC-021",
+  "gafFile":"res/npc/NPC-021-D+C/NPC-021-D+C.gaf",
+  "posX":-847,
+  "posY":959,
+  "scaleFactor":0.9,
+  "size":
+  {
+    "w":240,
+    "h":240
+  },
+  "sequenceAlias":
+  [
+    {
+      "alias":"sleep",
+      "sequence":"NPC-021-Y"
+    },
+    {
+      "alias":"standby",
+      "sequence":"NPC-021-D"
+    },
+    {
+      "alias":"trigger",
+      "sequence":"NPC-021-C"
+    }
+  ]
+}

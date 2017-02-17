@@ -1,0 +1,140 @@
+{
+  "index": 6,
+  "AimeePosX": 170,
+  "AimeePosY": 866,
+  "BebeiPosX": -50,
+  "BebeiPosY": 850,
+  "npcRounds":
+  [
+    2
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme01/stage007/SL-GK07-JL.mp3",
+  "qaudio":
+  [
+    {
+       "source":"res/audio/theme01/stage007/SL-GK07-YX1.mp3",
+       "time": 8
+    },
+    {
+      "source":"res/audio/theme01/stage007/SL-GK07-YX2.mp3",
+      "time": 10
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme01/stage007/SL-GK07-YX3.mp3",
+      "time": 8
+    },
+    {
+      "source":"res/audio/theme01/stage007/SL-GK07-YX4.mp3",
+      "time": 10
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage007/SL-GK07-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage007/SL-GK07-BG01-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage007/SL-GK07-BG01-03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage007/SL-GK07-BG01-04.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 830
+    },
+    {
+      "orient": 1,
+      "scroll": 3230
+    },
+    {
+      "orient": 1,
+      "scroll": 1800
+    },
+    {
+      "orient": 1,
+      "scroll": 1700
+    },
+    {
+      "orient": 1,
+      "scroll": 3250
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -830
+    },
+    {
+      "orient": 1,
+      "scroll": -3230
+    },
+    {
+      "orient": 1,
+      "scroll": -1800
+    },
+    {
+      "orient": 1,
+      "scroll": -1700
+    },
+    {
+      "orient": 1,
+      "scroll": -3250
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 810,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 940,
+      "text": "三只小动物把自己的影子弄丢了，快来帮助小动物找到属于它们自己的影子吧。"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 810,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 940,
+      "text": "狐狸大叔正在装饰大门，需要将正确的图形拖到相应的位置，一起来帮帮它吧！"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 740,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "森林时钟被施了魔法，我们来找出时钟显示的正确时间，破解魔法吧！"
+    },
+    {
+      "roundIndex": 4,
+      "posX": 830,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 980,
+      "text": "这些符号你都认识吗？快将它们放到对应的果实上面吧，艾米和蓓蓓才能走过去哦！"
+    }
+  ]
+}

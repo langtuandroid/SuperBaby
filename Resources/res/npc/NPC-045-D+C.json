@@ -1,0 +1,27 @@
+{
+  "key":"NPC-045",
+  "gafFile":"res/npc/NPC-045-D+C/NPC-045-D+C.gaf",
+  "posX":-901,
+  "posY":952,
+  "scaleFactor":1.0,
+  "size":
+  {
+    "w":240,
+    "h":240
+  },
+  "sequenceAlias":
+  [
+    {
+      "alias":"sleep",
+      "sequence":"NPC-045-Y"
+    },
+    {
+      "alias":"standby",
+      "sequence":"NPC-045-D"
+    },
+    {
+      "alias":"trigger",
+      "sequence":"NPC-045-C"
+    }
+  ]
+}

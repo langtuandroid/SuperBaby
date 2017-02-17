@@ -1,0 +1,142 @@
+{
+  "index":45,
+  "AimeePosX": 170,
+  "AimeePosY": 736,
+  "BebeiPosX": -50,
+  "BebeiPosY": 720,
+  "npcRounds":
+  [
+     1
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme04/stage046/GC-GK10-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme04/stage046/GC-GK10-YX1.mp3",
+      "time": 10
+    },
+    {
+      "source":"res/audio/theme04/stage046/GC-GK10-YX2.mp3",
+      "time": 6
+    },
+    {
+      "source":"res/audio/theme04/stage046/GC-GK10-YX3.mp3",
+      "time": 10
+    },
+    {
+      "source":"res/audio/theme04/stage046/GC-GK10-YX4.mp3",
+      "time": 11
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage046/GC-GK10-bj01_001.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage046/GC-GK10-bj01_002.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage046/GC-GK10-bj01_003.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage046/GC-GK10-bj01_004.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1250
+    },
+    {
+      "orient": 1,
+      "scroll": 3000
+    },
+    {
+      "orient": 1,
+      "scroll": 2900
+    },
+    {
+      "orient": 1,
+      "scroll": 3300
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1250
+    },
+    {
+      "orient": 1,
+      "scroll": -3000
+    },
+    {
+      "orient": 1,
+      "scroll": -2900
+    },
+    {
+      "orient": 1,
+      "scroll": -3300
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 735,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "天空中飘来一排小气球，其中有一个编号掉了，你能按照规律将它补充完整吗？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "蓓蓓想买数量最多的那串糖葫芦，快来帮她选出来吧！"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 735,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "几个小朋友在玩皮球，这些皮球中有一个是不一样的，仔细看看，你能找出来吗？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 735,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "这几个毛毛怪的帽子被风刮跑了，你能根据它们身体的颜色给它们带上相同颜色的帽子吗？"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage046/GC-GK10-IT.png"
+  ],
+    "preloadGafs":
+  [
+    "res/stage046/GC-CK10-3-MS02-D+C/GC-CK10-3-MS02-D+C.gaf",
+    "res/stage046/GC-CK10-3-MS03-D+C/GC-CK10-3-MS03-D+C.gaf",
+    "res/stage046/GC-GK10-02-MS-D+C/GC-GK10-02-MS-D+C.gaf",
+    "res/stage046/GC-GK10-3-MS01-D+C/GC-GK10-3-MS01-D+C.gaf",
+    "res/stage046/GC-GK10-4-MS01-D+C/GC-GK10-4-MS01-D+C.gaf",
+    "res/stage046/GC-GK10-4-MS02-D+C/GC-GK10-4-MS02-D+C.gaf",
+    "res/stage046/GC-GK10-4-MS03-D+C/GC-GK10-4-MS03-D+C.gaf"
+  ]
+}

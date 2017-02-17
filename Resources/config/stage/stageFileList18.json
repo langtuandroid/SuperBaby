@@ -1,0 +1,46 @@
+{
+  "remoteURL":
+  {
+    "stage":
+    {
+      "url":"http://abelclass.ufile.ucloud.com.cn/res/stage018.zip",
+      "md5":"51bdb194cfa6a8f4d545e56c23e176c4"
+    },
+    "audio":
+    {
+      "url":"http://abelclass.ufile.ucloud.com.cn/res/audio/theme02/stage018.zip",
+      "md5":"d2f771af021fd982bf5fc28d7385d23c"
+    }
+  },
+  "files":
+  {
+    "stage":
+    [
+      "res/stage018/XQ-GK06-1-MS-D+C/XQ-GK06-1-MS-D+C.gaf",
+      "res/stage018/XQ-GK06-1-MS-D+C/XQ-GK06-1-MS-D+C.png",
+      "res/stage018/XQ-GK06-3-IT-D+C/XQ-GK06-3-IT-D+C.gaf",
+      "res/stage018/XQ-GK06-3-IT-D+C/XQ-GK06-3-IT-D+C.png",
+      "res/stage018/XQ-GK06-4-MS-D+C/XQ-GK06-4-MS-D+C.gaf",
+      "res/stage018/XQ-GK06-4-MS-D+C/XQ-GK06-4-MS-D+C.png",
+      "res/stage018/XQ-GK06-4-TM01-D/XQ-GK06-4-TM01-D.gaf",
+      "res/stage018/XQ-GK06-4-TM01-D/XQ-GK06-4-TM01-D.png",
+      "res/stage018/XQ-GK06-4-TM02.png",
+      "res/stage018/XQ-GK06-BG_01_01.png",
+      "res/stage018/XQ-GK06-BG_01_02.png",
+      "res/stage018/XQ-GK06-BG_01_03.png",
+      "res/stage018/XQ-GK06-BG_01_04.png",
+      "res/stage018/XQ-GK06-IT.plist",
+      "res/stage018/XQ-GK06-IT.png"
+    ],
+    "audio":
+    [
+      "res/audio/theme02/stage018/XQ-GK06-JL.mp3",
+      "res/audio/theme02/stage018/XQ-GK06-YX1.mp3",
+      "res/audio/theme02/stage018/XQ-GK06-YX2.mp3",
+      "res/audio/theme02/stage018/XQ-GK06-YX3.mp3",
+      "res/audio/theme02/stage018/XQ-GK06-YX4.mp3"
+    ]
+  }
+}
+
+

@@ -1,0 +1,169 @@
+{
+  "index":42,
+  "AimeePosX": 170,
+  "AimeePosY": 786,
+  "BebeiPosX": -50,
+  "BebeiPosY": 770,
+  "npcRounds":
+  [
+     1,
+     4
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme04/stage043/GC-GK07-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme04/stage043/GC-GK07-YX1.mp3",
+      "time": 9
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme04/stage043/GC-GK07-YX2.mp3",
+      "time": 9
+    },
+    {
+      "source":"res/audio/theme04/stage043/GC-GK07-YX3.mp3",
+      "time": 12
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme04/stage043/GC-GK07-YX4.mp3",
+      "time": 9
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage043/GC-GK07-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage043/GC-GK07-BG01-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage043/GC-GK07-BG01-03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage043/GC-GK07-BG01-04.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 700
+    },
+    {
+      "orient": 1,
+      "scroll": 1900
+    },
+    {
+      "orient": 1,
+      "scroll": 1500
+    },
+    {
+      "orient": 1,
+      "scroll": 2300
+    },
+    {
+      "orient": 1,
+      "scroll": 1800
+    },
+    {
+      "orient": 1,
+      "scroll": 2500
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -700
+    },
+    {
+      "orient": 1,
+      "scroll": -1900
+    },
+    {
+      "orient": 1,
+      "scroll": -1500
+    },
+    {
+      "orient": 1,
+      "scroll": -2300
+    },
+    {
+      "orient": 1,
+      "scroll": -1800
+    },
+    {
+      "orient": 1,
+      "scroll": -2500
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 745,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "这里有两座石门，请你参照左边的石门把右边的石门也涂上好看的颜色吧。"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "哇，好神奇的石板，上面隐藏了一组数字，你发现了吗？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "草地上有好多石像，你能找出最小的那个吗？"
+    },
+    {
+      "roundIndex": 5,
+      "posX": 715,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "小矮人邀请艾米和蓓蓓去他家做客，艾米和蓓蓓该选择哪扇门进去呢？"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage043/GC-GC07-IT.png",
+    "res/stage043/GC-GC07-4-DA01.png",
+    "res/stage043/GC-GC07-4-DA02.png",
+    "res/stage043/GC-GC07-4-IT00.png",
+    "res/stage043/GC-GC07-4-IT01.png",
+    "res/stage043/GC-GC07-4-IT02.png",
+    "res/stage043/GC-GC07-4-IT03.png",
+    "res/stage043/GC-GC07-4-IT04.png",
+    "res/stage043/GC-GC07-4-IT05.png"
+  ],
+    "preloadGafs":
+  [
+    "res/stage039/GC-GK03-4-MS/GC-GK03-4-MS.gaf"
+  ]
+}

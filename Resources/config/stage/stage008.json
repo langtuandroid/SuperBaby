@@ -1,0 +1,124 @@
+{
+  "index": 7,
+  "AimeePosX": 170,
+  "AimeePosY": 816,
+  "BebeiPosX": -50,
+  "BebeiPosY": 800,
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme01/stage008/SL-GK08-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme01/stage008/SL-GK08-YX1.mp3",
+      "time": 9
+    },
+    {
+      "source":"res/audio/theme01/stage008/SL-GK08-YX2.mp3",
+      "time": 6
+    },
+    {
+      "source":"res/audio/theme01/stage008/SL-GK08-YX3.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme01/stage008/SL-GK08-YX4.mp3",
+      "time": 8
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage008/SL-GK08-1-BJ_001.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage008/SL-GK08-1-BJ_002.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage008/SL-GK08-1-BJ_003.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage008/SL-GK08-1-BJ_004.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1330
+    },
+    {
+      "orient": 1,
+      "scroll": 2530
+    },
+    {
+      "orient": 1,
+      "scroll": 2300
+    },
+    {
+      "orient": 1,
+      "scroll": 2400
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1330
+    },
+    {
+      "orient": 1,
+      "scroll": -2530
+    },
+    {
+      "orient": 1,
+      "scroll": -2300
+    },
+    {
+      "orient": 1,
+      "scroll": -2400
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 840,
+      "text": "鸡妈妈想要把10元的人民币兑换成2张5元的，下面哪种方式是正确的呢？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 680,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 700,
+      "text": "小朋友，帮助小动物找到各自喜欢吃的食物吧！"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 710,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "你知道小青蛙的生长顺序吗？按照正确的顺序排一排吧！"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 710,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "山羊爷爷的魔方少了几块，可是要补几块呢？一起来数一数吧！"
+    }
+  ]
+}

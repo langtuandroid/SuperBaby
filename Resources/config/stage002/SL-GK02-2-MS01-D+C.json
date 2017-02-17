@@ -1,0 +1,17 @@
+{
+  "gafFile":"res/stage002/SL-GK02-2-MS01-D+C/SL-GK02-2-MS01-D+C.gaf",
+  "posX":0,
+  "posY":0,
+  "scaleFactor":1.0,
+  "sequenceAlias":
+  [
+    {
+      "alias":"wait",
+      "sequence":"SL-GK02-2-MS01-D"
+    },
+    {
+      "alias":"jump",
+      "sequence":"SL-GK02-2-MS01-C"
+    }
+  ]
+}

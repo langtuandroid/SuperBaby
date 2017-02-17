@@ -1,0 +1,178 @@
+{
+  "index":40,
+  "AimeePosX": 270,
+  "AimeePosY": 336,
+  "BebeiPosX": 50,
+  "BebeiPosY": 320,
+  "npcRounds":
+  [
+     2,
+     4
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "emptyRound":
+  [
+    0
+  ],
+  "saudio":"res/audio/theme04/stage041/GC-GK05-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme04/stage041/GC-GK05-YX1.mp3",
+      "time": 7
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme04/stage041/GC-GK05-YX2.mp3",
+      "time": 10
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme04/stage041/GC-GK05-YX3.mp3",
+      "time": 11
+    },
+    {
+      "source":"res/audio/theme04/stage041/GC-GK05-YX4.mp3",
+      "time": 8
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage041/GC-GK05-BJ_001.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage041/GC-GK05-BJ_002.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage041/GC-GK05-BJ_003.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage041/GC-GK05-BJ_004.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 0
+    },
+    {
+      "orient": 1,
+      "scroll": 800
+    },
+    {
+      "orient": 1,
+      "scroll": 1950
+    },
+    {
+      "orient": 1,
+      "scroll": 1450
+    },
+    {
+      "orient": 1,
+      "scroll": 1500
+    },
+    {
+      "orient": 1,
+      "scroll": 1700
+    },
+    {
+      "orient": 1,
+      "scroll": 2850
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 0
+    },
+    {
+      "orient": 1,
+      "scroll": -900
+    },
+    {
+      "orient": 1,
+      "scroll": -1950
+    },
+    {
+      "orient": 1,
+      "scroll": -1450
+    },
+    {
+      "orient": 1,
+      "scroll": -1500
+    },
+    {
+      "orient": 1,
+      "scroll": -1700
+    },
+    {
+      "orient": 1,
+      "scroll": -2850
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 1,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "有4个路牌，其中哪一个路牌的指向和其他路牌不同呢？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "小鸟想吃水果，你能从这些食物中把水果找出来喂给它吃吗？"
+    },
+    {
+      "roundIndex": 5,
+      "posX": 700,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "大石头上站了3只小鸟，小石头上站了2只小鸟，一共有多少只小鸟呢？"
+    },
+    {
+      "roundIndex": 6,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "木板桥坏了，请将合适的木板放在桥上面，把桥修好吧！"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage041/GC-GK05-IT.png"
+  ],
+    "preloadGafs":
+  [
+    "res/stage041/GC-GK05-02-MS01-C+D1+D2/GC-GK05-02-MS01-C+D1+D2.gaf",
+    "res/stage041/GC-GK05-03-MS01-C+D/GC-GK05-03-MS01-C+D.gaf"
+  ]
+}

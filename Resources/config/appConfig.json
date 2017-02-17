@@ -1,0 +1,36 @@
+{
+    "bgScrollSpeed":256,
+    "overRoundCelebrateDurdation":5,
+  
+    "ansCorrEffect":
+    [
+        "res/audio/lead/AM-ZQ-XY1.mp3",
+        "res/audio/lead/AM-ZQ-XY2.mp3",
+        "res/audio/lead/AM-ZQ-XY3.mp3",
+        "res/audio/lead/BB-ZQ-XY1.mp3",
+        "res/audio/lead/BB-ZQ-XY2.mp3",
+        "res/audio/lead/BB-ZQ-XY3.mp3"
+    ],
+    "ansErrEffect":
+    [
+        "res/audio/lead/AM-CW-XY1.mp3",
+        "res/audio/lead/AM-CW-XY2.mp3",
+        "res/audio/lead/AM-CW-XY3.mp3",
+        "res/audio/lead/BB-CW-XY1.mp3",
+        "res/audio/lead/BB-CW-XY2.mp3",
+        "res/audio/lead/BB-CW-XY3.mp3"
+    ],
+    "walkEffect":
+    [
+        "res/audio/lead/AM-XZ-XY1.mp3",
+        "res/audio/lead/AM-XZ-XY2.mp3",
+        "res/audio/lead/AM-XZ-XY3.mp3",
+        "res/audio/lead/BB-XZ-XY1.mp3",
+        "res/audio/lead/BB-XZ-XY2.mp3"
+    ],
+    "npcCollectEffect":
+    [
+        "res/audio/lead/AM-SJ-XY1.mp3",
+        "res/audio/lead/BB-SJ-XY1.mp3"
+    ]
+}

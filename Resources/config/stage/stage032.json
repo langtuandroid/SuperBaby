@@ -1,0 +1,180 @@
+{
+  "index":31,
+  "AimeePosX": 170,
+  "AimeePosY": 776,
+  "BebeiPosX": -50,
+  "BebeiPosY": 760,
+  "npcRounds":
+  [
+     0,
+     2
+  ],
+  "djcf":"res/common/HY-GK-shuihua/HY-GK-shuihua.gaf",
+  "saudio":"res/audio/theme03/stage032/HY-GK08-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme03/stage032/HY-GK08-YX1.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme03/stage032/HY-GK08-YX2.mp3",
+      "time": 7
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme03/stage032/HY-GK08-YX3.mp3",
+      "time": 11
+    },
+    {
+      "source":"res/audio/theme03/stage032/HY-GK08-YX4.mp3",
+      "time": 12
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file":"res/stage032/HY-GK08-BG-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage032/HY-GK08-BG-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage032/HY-GK08-BG-03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage032/HY-GK08-BG-04.png"
+    }
+  ],
+  "foreImg":
+  [
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing01.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_001.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_002.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_003.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_004.png"
+    }
+   ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1200
+    },
+    {
+      "orient": 1,
+      "scroll": 3070
+    },
+    {
+      "orient": 1,
+      "scroll": 1300
+    },
+    {
+      "orient": 1,
+      "scroll": 1650
+    },
+    {
+      "orient": 1,
+      "scroll": 3000
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1200
+    },
+    {
+      "orient": 1,
+      "scroll": -3070
+    },
+    {
+      "orient": 1,
+      "scroll": -1300
+    },
+    {
+      "orient": 1,
+      "scroll": -1650
+    },
+    {
+      "orient": 1,
+      "scroll": -3000
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 755,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "小龙虾渴了想喝水，你能把最多的一杯水拿给它吗？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "哈哈，大章鱼要准备画画了，数一数它一共有几只脚？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "四只调皮的小海怪藏在珊瑚丛后面，其中有两只是一模一样的，把它们找出来吧！"
+    },
+    {
+      "roundIndex": 4,
+      "posX": 780,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 880,
+      "text": "舱门上面有一串数字密码，拖入一个数字到空白位置，要让它们横着和竖着加起来都等于10。"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage032/HY-GK08-IT.png",
+    "res/stage032/HY-GK08-3-DA01.png",
+    "res/stage032/HY-GK08-3-DA02.png",
+    "res/stage032/HY-GK08-3-DA03.png",
+    "res/stage032/HY-GK08-3-IT.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage032/HY-GK08-1-MS/HY-GK08-1-MS.gaf", 
+    "res/stage032/HY-GK08-2-MS/HY-GK08-2-MS.gaf",
+    "res/stage032/HY-GK08-4-TM/HY-GK08-4-TM.gaf",
+    "res/stage028/HY-GK-paopao01/HY-GK-paopao01.gaf",
+    "res/stage028/HY-GK-guang/HY-GK-guang.gaf"
+  ]
+}

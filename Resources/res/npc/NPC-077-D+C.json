@@ -1,0 +1,27 @@
+{
+  "key":"NPC-077",
+  "gafFile":"res/npc/NPC-077-D+C/NPC-077-D+C.gaf",
+  "posX":-901,
+  "posY":1046,
+  "scaleFactor":1.0,
+  "size":
+  {
+    "w":240,
+    "h":300
+  },
+  "sequenceAlias":
+  [
+    {
+      "alias":"sleep",
+      "sequence":"NPC-077-Y"
+    },
+    {
+      "alias":"standby",
+      "sequence":"NPC-077-D"
+    },
+    {
+      "alias":"trigger",
+      "sequence":"NPC-077-C"
+    }
+  ]
+}

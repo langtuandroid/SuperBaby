@@ -1,0 +1,174 @@
+{
+  "index":26,
+  "AimeePosX": 170,
+  "AimeePosY": 826,
+  "BebeiPosX": -50,
+  "BebeiPosY": 810,
+  "npcRounds":
+  [
+     2
+  ],
+  "djcf":"res/common/HY-GK-shuihua/HY-GK-shuihua.gaf",
+  "saudio":"res/audio/theme03/stage027/HY-GK03-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme03/stage027/HY-GK03-YX1.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme03/stage027/HY-GK03-YX2.mp3",
+      "time": 7
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme03/stage027/HY-GK03-YX3.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme03/stage027/HY-GK03-YX4.mp3",
+      "time": 15
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file":"res/stage027/HY-GK03-BJ01_001.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage027/HY-GK03-BJ01_002.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage027/HY-GK03-BJ01_003.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage027/HY-GK03-BJ01_004.png"
+    }
+  ],
+  "foreImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage025/HY-GK-qianjing_01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage025/HY-GK-qianjing_02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage025/HY-GK-qianjing_03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage025/HY-GK-qianjing_04.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage025/HY-GK-qianjing_05.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 700
+    },
+    {
+      "orient": 1,
+      "scroll": 3960
+    },
+    {
+      "orient": 1,
+      "scroll": 1820
+    },
+    {
+      "orient": 1,
+      "scroll": 1300
+    },
+    {
+      "orient": 1,
+      "scroll": 3000
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -700
+    },
+    {
+      "orient": 1,
+      "scroll": -3960
+    },
+    {
+      "orient": 1,
+      "scroll": -1820
+    },
+    {
+      "orient": 1,
+      "scroll": -1300
+    },
+    {
+      "orient": 1,
+      "scroll": -3000
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 800,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 900,
+      "text": "艾米和蓓蓓想要玩挖沙，下面哪一种工具是不需要的呢？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "这四艘船中有两艘是一模一样的，把它们找出来吧!"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 710,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "沙滩上要举行排球比赛，下面哪个球才是用于比赛的呢？"
+    },
+    {
+      "roundIndex": 4,
+      "posX": 800,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 920,
+      "text": "大海龟龟壳上的宝石掉了一颗，按照规律将正确的宝石填充上去，它才能召唤美人鱼，将艾米和蓓蓓带入神奇的海底世界哦！"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage027/HY-GK03-IT.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage027/HY-GK03-2-TX/HY-GK03-2-TX.gaf",
+    "res/stage027/HY-GK05-2-MS01-D+C/HY-GK05-2-MS01-D+C.gaf",
+    "res/stage027/HY-GK03-4-meirenyu-C1+C2/HY-GK03-4-meirenyu-C1+C2.gaf",
+    "res/stage025/HY-GK-boguang/HY-GK-boguang.gaf"
+  ]
+}

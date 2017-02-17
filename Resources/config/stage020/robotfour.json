@@ -1,0 +1,22 @@
+{
+  "gafFile":"res/stage020/XQ-GK08-4-MS03-D+C/XQ-GK08-4-MS03-D+C.gaf",
+  "posX":-851,
+  "posY":985,
+  "scaleFactor":1.0,
+  "size":
+  {
+    "w":340,
+    "h":440
+  },
+  "sequenceAlias":
+  [
+    {
+      "alias":"standby",
+      "sequence":"XQ-GK08-4-MS03-D"
+    },
+    {
+      "alias":"trigger",
+      "sequence":"XQ-GK08-4-MS03-C"
+    }
+  ]
+}

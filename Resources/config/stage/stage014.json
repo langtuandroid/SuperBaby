@@ -1,0 +1,151 @@
+{
+  "index":13,
+  "AimeePosX": 170,
+  "AimeePosY": 876,
+  "BebeiPosX": -50,
+  "BebeiPosY": 860,
+  "needInitAsset":true,
+  "npcRounds":
+  [
+    3
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme02/stage014/XQ-GK02-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme02/stage014/XQ-GK02-YX1.mp3",
+      "time": 6
+    },
+    {
+      "source":"res/audio/theme02/stage014/XQ-GK02-YX2.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme02/stage014/XQ-GK02-YX3.mp3",
+      "time": 10
+    },
+    {
+      "source":"",
+      "time": 0
+   },
+    {
+      "source":"res/audio/theme02/stage014/XQ-GK02-YX4.mp3",
+      "time": 9
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage014/XQ-GK02-BG_01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage014/XQ-GK02-BG_02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage014/XQ-GK02-BG_03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage014/XQ-GK02-BG_04.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 740
+    },
+    {
+      "orient": 1,
+      "scroll": 2940
+    },
+    {
+      "orient": 1,
+      "scroll": 3370
+    },
+    {
+      "orient": 1,
+      "scroll": 2000
+    },
+    {
+      "orient": 1,
+      "scroll": 2400
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -740
+    },
+    {
+      "orient": 1,
+      "scroll": -2940
+    },
+    {
+      "orient": 1,
+      "scroll": -3370
+    },
+    {
+      "orient": 1,
+      "scroll": -2000
+    },
+    {
+      "orient": 1,
+      "scroll": -2400
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 670,
+      "posY": 1230,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 690,
+      "text": "这个小星球还缺少一块，你能将它补充完整吗？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 735,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "找出两个一模一样的小星球，将机器人空缺部分补充完整。"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "这些飞船中有两个是一样的，你能找出来吗？考考你的眼力哟！"
+    },
+    {
+      "roundIndex": 4,
+      "posX": 700,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "基地的大门被密码锁锁住了，你能按照数字规律将空白处的数字补充完整吗？"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage014/XQ-GK02-BG01_001.png",
+    "res/stage014/XQ-GK02-IT.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage014/XQ-GK02-3-IT03-D+C/XQ-GK02-3-IT03-D+C.gaf",
+    "res/stage014/XQ-GK02-4-TM-D+C/XQ-GK02-4-TM-D+C.gaf"
+  ]
+}

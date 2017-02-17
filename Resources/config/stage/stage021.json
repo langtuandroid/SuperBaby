@@ -1,0 +1,164 @@
+{
+  "index":20,
+  "AimeePosX": 170,
+  "AimeePosY": 986,
+  "BebeiPosX": -50,
+  "BebeiPosY": 970,
+  "npcRounds":
+  [
+    1
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme02/stage021/XQ-GK09-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme02/stage021/XQ-GK09-YX1.mp3",
+      "time": 7
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme02/stage021/XQ-GK09-YX2.mp3",
+      "time": 9
+    },
+    {
+      "source":"res/audio/theme02/stage021/XQ-GK09-YX3.mp3",
+      "time": 9
+    },
+    {
+      "source":"res/audio/theme02/stage021/XQ-GK09-YX4.mp3",
+      "time": 9
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage021/XQ-GK09-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage021/XQ-GK09-BG01-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage021/XQ-GK09-BG01-03.png"
+    },
+    {
+      "tileOrient": 2,
+      "file": "res/stage021/XQ-GK09-BG01-04.png",
+      "upDown": 2,
+      "leftPadding": 0,
+      "rightPadding": 0
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage021/XQ-GK09-BG01-05.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 600
+    },
+    {
+      "orient": 1,
+      "scroll": 1740
+    },
+    {
+      "orient": 1,
+      "scroll": 1200
+    },
+    {
+      "orient": 1,
+      "scroll": 3300
+    },
+    {
+      "orient": 1,
+      "scroll": 1600
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -600
+    },
+    {
+      "orient": 1,
+      "scroll": -1740
+    },
+    {
+      "orient": 1,
+      "scroll": -1200
+    },
+    {
+      "orient": 1,
+      "scroll": -3000
+    },
+    {
+      "orient": 2,
+      "scroll": -1900,
+      "bgImgIndex": 3,
+      "vscroll": 1249
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 735,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "外星人塔塔想拉直这根绳子，拉直后你知道会打几个结吗？"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "尖嘴巴外星人做了很多荧光棒，你知道这两捆荧光棒一共有多少根吗？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "小机器人也爱玩自拍呢！下面哪个动作跟屏幕中照片动作是一模一样的呢？"
+    },
+    {
+      "roundIndex": 4,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "艾米和蓓蓓现在想去外星人基地的5楼，他们应该按哪个按钮才能快速到达呢？"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage021/XQ-GK09-IT.png",
+    "res/stage021/XQ-GK09-BGA1.png",
+    "res/stage021/XQ-GK09-BGA2.png",
+    "res/stage021/XQ-GK09-04-IT01.png",
+    "res/stage021/XQ-GK09-04-IT02.png",
+    "res/stage021/XQ-GK09-04-IT03.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage021/XQ-GK09-1-MS01-D+C/XQ-GK09-1-MS01-D+C.gaf",
+    "res/stage021/XQ-GK09-2-MS01-D+C/XQ-GK09-2-MS01-D+C.gaf",
+    "res/stage021/XQ-GK09-3-MS01-D+C/XQ-GK09-3-MS01-D+C.gaf"
+  ]
+}

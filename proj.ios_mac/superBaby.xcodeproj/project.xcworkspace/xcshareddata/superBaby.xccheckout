@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DE25DC74-F07A-43E2-BF1A-AFEF9487E867</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>586a3199-60d0-6645-b727-967f538bd222++3775</key>
+		<string>http://101.231.200.154:1688/svn/AbelGame/SuperBaby/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>superBaby/proj.ios_mac/superBaby.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>586a3199-60d0-6645-b727-967f538bd222++3775</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>586a3199-60d0-6645-b727-967f538bd222++3775</key>
+		<string>http://101.231.200.154:1688/svn/AbelGame</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://101.231.200.154:1688/svn/AbelGame/SuperBaby/trunk/superBaby/proj.ios_mac/superBaby.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>586a3199-60d0-6645-b727-967f538bd222++3775</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>586a3199-60d0-6645-b727-967f538bd222++3775</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SuperBaby</string>
+		</dict>
+	</array>
+</dict>
+</plist>

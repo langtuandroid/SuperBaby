@@ -1,0 +1,162 @@
+{
+  "index":28,
+  "AimeePosX": 170,
+  "AimeePosY": 776,
+  "BebeiPosX": -50,
+  "BebeiPosY": 760,
+  "npcRounds":
+  [
+     0
+  ],
+  "djcf":"res/common/HY-GK-shuihua/HY-GK-shuihua.gaf",
+  "saudio":"res/audio/theme03/stage029/XQ-GK12-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme03/stage029/HY-GK05-YX1.mp3",
+      "time": 8
+    },
+    {
+      "source":"res/audio/theme03/stage029/HY-GK05-YX2.mp3",
+      "time": 8
+    },
+    {
+      "source":"res/audio/theme03/stage029/HY-GK05-YX3.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme03/stage029/HY-GK05-YX4.mp3",
+      "time": 9
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file":"res/stage029/HY-GK05-BG_001.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage029/HY-GK05-BG_002.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage029/HY-GK05-BG_003.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage029/HY-GK05-BG_004.png"
+    }
+  ],
+  "foreImg":
+  [
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing01.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_001.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_002.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_003.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_004.png"
+    }
+   ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1100
+    },
+    {
+      "orient": 1,
+      "scroll": 2920
+    },
+    {
+      "orient": 1,
+      "scroll": 3300
+    },
+    {
+      "orient": 1,
+      "scroll": 3000
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1100
+    },
+    {
+      "orient": 1,
+      "scroll": -2920
+    },
+    {
+      "orient": 1,
+      "scroll": -3300
+    },
+    {
+      "orient": 1,
+      "scroll": -3000
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 800,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 900,
+      "text": "石头旁边有一幅不完整的拼图，小朋友们，开动脑筋来拼一拼吧！"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 800,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 900,
+      "text": "一只大海龟正在睡觉，海龟背上还有一串算式呢，赶紧计算一下吧！"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 710,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "艾米和蓓蓓想要贝壳，请把红色的贝壳都放进篮子里吧！"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 780,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 880,
+      "text": "这些鱼排成了一支队伍，它们是有规律的哦，你知道空缺处应该是什么鱼吗？"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage029/HY-GK05-IT.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage029/HY-GK05-1-MS01-D/HY-GK05-1-MS01-D.gaf",
+    "res/stage027/HY-GK05-2-MS01-D+C/HY-GK05-2-MS01-D+C.gaf",
+    "res/stage028/HY-GK-paopao01/HY-GK-paopao01.gaf",
+    "res/stage028/HY-GK-guang/HY-GK-guang.gaf"
+  ]
+}

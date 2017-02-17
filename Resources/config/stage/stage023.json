@@ -1,0 +1,140 @@
+{
+  "index":22,
+  "AimeePosX": 170,
+  "AimeePosY": 966,
+  "BebeiPosX": -50,
+  "BebeiPosY": 950,
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme02/stage023/XQ-GK11-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme02/stage023/XQ-GK11-YX1.mp3",
+      "time": 8
+    },
+    {
+      "source":"res/audio/theme02/stage023/XQ-GK11-YX2.mp3",
+      "time": 10
+    },
+    {
+      "source":"res/audio/theme02/stage023/XQ-GK11-YX3.mp3",
+      "time": 10
+    },
+    {
+      "source":"res/audio/theme02/stage023/XQ-GK11-YX4.mp3",
+      "time": 9
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage023/XQ-GK11-BG_01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage023/XQ-GK11-BG_02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage023/XQ-GK11-BG_03.png"
+    },
+    {
+      "tileOrient": 2,
+      "file": "res/stage023/XQ-GK11-BG_04.png",
+      "upDown": 1
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage023/XQ-GK11-BG_05.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient":1,
+      "scroll":1360
+    },
+    {
+      "orient":1,
+      "scroll":3160
+    },
+    {
+      "orient":1,
+      "scroll":2540
+    },
+    {
+      "orient":1,
+      "scroll":1600
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient":1,
+      "scroll":-1360
+    },
+    {
+      "orient":1,
+      "scroll":-3160
+    },
+    {
+      "orient":1,
+      "scroll":-2540
+    },
+    {
+      "orient":2,
+      "scroll":-2080,
+      "bgImgIndex":3,
+      "vscroll": -1536
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex":0,
+      "posX":820,
+      "posY":1220,
+      "fontSize":48,
+      "fontFile":"fonts/DFGBHBC_0.TTC",
+      "maxLineWidth":950,
+      "text":"好多奇异的水果啊！哪一筐最多呢？请帮艾米和蓓蓓选出来吧。"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text":"仔细观察萝卜上的颜色，请按照颜色规律将最后一个萝卜也刷上合适的颜色吧！"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "外星人黄咪咪在采摘葡萄呢，快来帮帮忙吧，将单数编号的葡萄放到篮子里。"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "终于到了花园的尽头，将对应的形状拖到显示屏上面，就可以启动大门开关了！"
+    }
+  ],
+  "preloadGafs":
+  [
+    "res/stage023/XQ-GK11-1-DA01-D+C/XQ-GK11-1-DA01-D+C.gaf",
+    "res/stage023/XQ-GK11-1-DA02-D+C/XQ-GK11-1-DA02-D+C.gaf",
+    "res/stage023/XQ-GK11-1-DA03-D+C/XQ-GK11-1-DA03-D+C.gaf",
+    "res/stage023/XQ-GK11-2-IT-D+C/XQ-GK11-2-IT-D+C.gaf",
+    "res/stage023/XQ-GK11-3-SM-D/XQ-GK11-3-SM-D.gaf",
+    "res/stage023/XQ-GK11-4-TM02-D+C/XQ-GK11-4-TM02-D+C.gaf"
+  ]
+}

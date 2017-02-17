@@ -1,0 +1,12 @@
+{
+  "packageUrl":"http://abelclass.ufile.ucloud.cn/superbaby/",
+  "remoteManifestUrl":"http://abelclass.ufile.ucloud.cn/superbaby/project.manifest",
+  "remoteVersionUrl":"http://abelclass.ufile.ucloud.cn/superbaby/version.manifest",
+  "version":"1.0.9",
+  "engineVersion":"cocos2dx 3.5",
+  "assets":{},
+  "searchPaths":
+  [
+    "update/"
+  ]
+}

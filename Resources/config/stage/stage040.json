@@ -1,0 +1,162 @@
+{
+  "index":39,
+  "AimeePosX": 170,
+  "AimeePosY": 836,
+  "BebeiPosX": -50,
+  "BebeiPosY": 820,
+  "npcRounds":
+  [
+     2,
+     4
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme04/stage040/GC-GK04-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme04/stage040/GC-GK04-YX1.mp3",
+      "time": 5
+    },
+    {
+      "source":"res/audio/theme04/stage040/GC-GK04-YX2.mp3",
+      "time": 5
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme04/stage040/GC-GK04-YX3.mp3",
+      "time": 9
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme04/stage040/GC-GK04-YX4.mp3",
+      "time": 7
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage040/GC-GK04-BJ_001.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage040/GC-GK04-BJ_002.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage040/GC-GK04-BJ_003.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage040/GC-GK04-BJ_004.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1100
+    },
+    {
+      "orient": 1,
+      "scroll": 2700
+    },
+    {
+      "orient": 1,
+      "scroll": 1750
+    },
+    {
+      "orient": 1,
+      "scroll": 1650
+    },
+    {
+      "orient": 1,
+      "scroll": 1900
+    },
+    {
+      "orient": 1,
+      "scroll": 1500
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1100
+    },
+    {
+      "orient": 1,
+      "scroll": -2700
+    },
+    {
+      "orient": 1,
+      "scroll": -1750
+    },
+    {
+      "orient": 1,
+      "scroll": -1650
+    },
+    {
+      "orient": 1,
+      "scroll": -1900
+    },
+    {
+      "orient": 1,
+      "scroll": -1500
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 755,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "这两个石像有2处不同，请分别找出来吧!"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 755,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "3个水桶，哪一个水桶里面的水更多呢？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 700,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "树枝上有些小彩旗被风吹走了，你能按照颜色规律把所缺的补充完整吗？"
+    },
+    {
+      "roundIndex": 5,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "两个超级大的盾牌各自少了一块，你能将其补充完整吗？"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage040/GC-GK04-IT.png"
+  ],
+    "preloadGafs":
+  [
+    "res/stage040/GC-GK04-4-TM03-D+C/GC-GK04-4-TM03-D+C.gaf",
+    "res/stage040/GC-GK04-4-TM04-D+C/GC-GK04-4-TM04-D+C.gaf"
+  ]
+}

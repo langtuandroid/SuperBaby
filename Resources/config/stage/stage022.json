@@ -1,0 +1,152 @@
+{
+  "index":21,
+  "AimeePosX": 170,
+  "AimeePosY": 971,
+  "BebeiPosX": -50,
+  "BebeiPosY": 955,
+  "npcRounds":
+  [
+    3
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme02/stage022/XQ-GK10-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme02/stage022/XQ-GK10-YX1.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme02/stage022/XQ-GK10-YX2.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme02/stage022/XQ-GK10-YX3.mp3",
+      "time": 9
+    },
+    {
+      "source":"res/audio/theme02/stage022/XQ-GK10-YX4.mp3",
+      "time": 10
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage022/XQ-GK10-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage022/XQ-GK10-BG01-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage022/XQ-GK10-BG01-03.png"
+    },
+    {
+      "tileOrient": 2,
+      "file": "res/stage022/XQ-GK10-BG01-04.png",
+      "upDown": 2,
+      "leftPadding": 0,
+      "rightPadding": 0
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage022/XQ-GK10-BG01-05.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1570
+    },
+    {
+      "orient": 1,
+      "scroll": 2800
+    },
+    {
+      "orient": 1,
+      "scroll": 2500
+    },
+    {
+      "orient": 1,
+      "scroll": 1400
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1570
+    },
+    {
+      "orient": 1,
+      "scroll": -2800
+    },
+    {
+      "orient": 1,
+      "scroll": -2550
+    },
+    {
+      "orient": 2,
+      "scroll": -2300,
+      "bgImgIndex": 3,
+      "vscroll": 1536
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 735,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "仔细观察这朵花，按照颜色规律将空白处填充完整。"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "哇，好多漂亮的花呀，请找出与其它花朵不同的一株吧。"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 775,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "花园里有一个五颜六色的巧克力雕塑，你知道它是由多少块小正方体组成的吗？ "
+    },
+    {
+      "roundIndex": 3,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "这颗恐龙蛋被人敲了3次，你能猜出A、B、C中哪一处是最后一次敲的吗？"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage022/XQ-GK10-IT.png",
+    "res/stage022/XQ-GK10-BGIT-02.png",
+    "res/stage022/XQ-GK10-BGIT-03.png",
+    "res/stage022/XQ-GK10-BGIT-04.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage022/XQ-GK10-2-TM01-D/XQ-GK10-2-TM01-D.gaf",
+    "res/stage022/XQ-GK10-2-TM02-D+C/XQ-GK10-2-TM02-D+C.gaf",
+    "res/stage022/XQ-GK10-3-TM01-D+C/XQ-GK10-3-TM01-D+C.gaf",
+    "res/stage022/XQ-GK10-4-NPC01-D/XQ-GK10-4-NPC01-D.gaf",
+    "res/stage022/XQ-GK10-4-TM01-D+C/XQ-GK10-4-TM01-D+C.gaf"
+  ]
+}

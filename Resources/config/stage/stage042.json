@@ -1,0 +1,179 @@
+{
+  "index":41,
+  "AimeePosX": 170,
+  "AimeePosY": 786,
+  "BebeiPosX": -50,
+  "BebeiPosY": 770,
+  "npcRounds":
+  [
+     2,
+     5
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "emptyRound":
+  [
+    0
+  ],
+  "saudio":"res/audio/theme04/stage042/GC-GK06-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme04/stage042/GC-GK06-YX1.mp3",
+      "time": 7
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme04/stage042/GC-GK06-YX2.mp3",
+      "time": 9
+    },
+    {
+      "source":"res/audio/theme04/stage042/GC-GK06-YX3.mp3",
+      "time": 10
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme04/stage042/GC-GK06-YX4.mp3",
+      "time": 9
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage042/GC-GK06-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage042/GC-GK06-BG01-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage042/GC-GK06-BG01-03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage042/GC-GK06-BG01-04.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 0
+    },
+    {
+      "orient": 1,
+      "scroll": 300
+    },
+    {
+      "orient": 1,
+      "scroll": 1950
+    },
+    {
+      "orient": 1,
+      "scroll": 1300
+    },
+    {
+      "orient": 1,
+      "scroll": 3400
+    },
+    {
+      "orient": 1,
+      "scroll": 1800
+    },
+    {
+      "orient": 1,
+      "scroll": 2050
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 0
+    },
+    {
+      "orient": 1,
+      "scroll": -900
+    },
+    {
+      "orient": 1,
+      "scroll": -1950
+    },
+    {
+      "orient": 1,
+      "scroll": -1300
+    },
+    {
+      "orient": 1,
+      "scroll": -3400
+    },
+    {
+      "orient": 1,
+      "scroll": -1800
+    },
+    {
+      "orient": 1,
+      "scroll": -2050
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 1,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "小怪兽列了一组算式，你能选出正确的答案将它补充完整吗？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 735,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "传说只有聪明的小朋友才能把这幅图拼完整。试试看，你是那个聪明的孩子吗？"
+    },
+    {
+      "roundIndex": 4,
+      "posX": 720,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "两棵苹果树上结了很多又大又红的苹果，数一数一共有多少个苹果呢？"
+    },
+    {
+      "roundIndex": 6,
+      "posX": 700,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "奶牛的腿被树枝划伤了，你能从下列物品中找到创可贴帮它贴上吗？"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage042/GC-GK06-IT.png",
+    "res/stage042/GC-BGIT01.png"
+  ],
+    "preloadGafs":
+  [
+    "res/stage042/GC-GK06-1-MS/GC-GK06-1-MS.gaf",
+    "res/stage042/GK-GK06-4_MS01-D+C/GK-GK06-4_MS01-D+C.gaf"
+  ]
+}

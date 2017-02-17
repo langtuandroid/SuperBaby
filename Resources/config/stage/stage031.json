@@ -1,0 +1,176 @@
+{
+  "index":30,
+  "AimeePosX": 170,
+  "AimeePosY": 776,
+  "BebeiPosX": -50,
+  "BebeiPosY": 760,
+  "npcRounds":
+  [
+     2
+  ],
+  "djcf":"res/common/HY-GK-shuihua/HY-GK-shuihua.gaf",
+  "saudio":"res/audio/theme03/stage031/HY-GK07-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme03/stage031/HY-GK07-YX1.mp3",
+      "time": 12
+    },
+    {
+      "source":"res/audio/theme03/stage031/HY-GK07-YX2.mp3",
+      "time": 12
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme03/stage031/HY-GK07-YX3.mp3",
+      "time": 12
+    },
+    {
+      "source":"res/audio/theme03/stage031/HY-GK07-YX4.mp3",
+      "time": 10
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file":"res/stage031/HY-GK07-BJ_001.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage031/HY-GK07-BJ_002.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage031/HY-GK07-BJ_003.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage031/HY-GK07-BJ_004.png"
+    }
+  ],
+  "foreImg":
+  [
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing01.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_001.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_002.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_003.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_004.png"
+    }
+   ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1100
+    },
+    {
+      "orient": 1,
+      "scroll": 3270
+    },
+    {
+      "orient": 1,
+      "scroll": 1300
+    },
+    {
+      "orient": 1,
+      "scroll": 1650
+    },
+    {
+      "orient": 1,
+      "scroll": 3000
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1100
+    },
+    {
+      "orient": 1,
+      "scroll": -3270
+    },
+    {
+      "orient": 1,
+      "scroll": -1300
+    },
+    {
+      "orient": 1,
+      "scroll": -1650
+    },
+    {
+      "orient": 1,
+      "scroll": -3000
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "鱼群在列队，其中有两条鱼儿来晚了，你能根据它们的排列规律，帮助小鱼找到自己的位置吗？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 790,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 900,
+      "text": "小海怪从贝壳里拿走了2颗珍珠，现在还剩下1颗珍珠，那么原来一共有几颗珍珠呢？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "动物们正在进行游泳比赛，鲨鱼比章鱼游得快，小鱼在最后面，请根据比赛结果排好名次吧！"
+    },
+    {
+      "roundIndex": 4,
+      "posX": 780,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 880,
+      "text": "水晶石桥缺了一块，观察石桥上的数字顺序，将正确的水晶石填上去吧！"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage031/HY-GK07-IT.png",
+    "res/stage031/HY-GK07-2-TM03.png",
+    "res/stage031/HY-GK07-2-TM04.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage030/HY-GK06-3-MS03-D+C/HY-GK06-3-MS03-D+C.gaf", 
+    "res/stage031/HY-GK07-2-MS01-D+C/HY-GK07-2-MS01-D+C.gaf",
+    "res/stage028/HY-GK-paopao01/HY-GK-paopao01.gaf",
+    "res/stage028/HY-GK-guang/HY-GK-guang.gaf"
+  ]
+}

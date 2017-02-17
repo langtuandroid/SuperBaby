@@ -1,0 +1,27 @@
+{
+  "key":"NPC-070",
+  "gafFile":"res/npc/NPC-070-D+C/NPC-070-D+C.gaf",
+  "posX":-700,
+  "posY":756,
+  "scaleFactor":0.8,
+  "size":
+  {
+    "w":240,
+    "h":240
+  },
+  "sequenceAlias":
+  [
+    {
+      "alias":"sleep",
+      "sequence":"NPC-070-Y"
+    },
+    {
+      "alias":"standby",
+      "sequence":"NPC-070-D"
+    },
+    {
+      "alias":"trigger",
+      "sequence":"NPC-070-C"
+    }
+  ]
+}

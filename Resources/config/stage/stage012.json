@@ -1,0 +1,139 @@
+{
+  "index": 11,
+  "AimeePosX": 170,
+  "AimeePosY": 822,
+  "BebeiPosX": -50,
+  "BebeiPosY": 816,
+  "npcRounds":
+  [
+    2
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme01/stage012/SL-GK12-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme01/stage012/SL-GK12-YX1.mp3",
+      "time": 9
+    },
+    {
+      "source":"res/audio/theme01/stage012/SL-GK12-YX2.mp3",
+      "time": 6
+    },
+    {
+      "source":"res/audio/theme01/stage012/SL-GK12-YX3.mp3",
+       "time": 6
+    },
+    {
+      "source":"res/audio/theme01/stage012/SL-GK12-YX4.mp3",
+      "time": 12
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage012/SL-GK12-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage012/SL-GK12-BG01-02.png"
+    },
+    {
+      "tileOrient": 2,
+      "file": "res/stage012/SL-GK12-BG01-03.png",
+      "upDown": 1
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage012/SL-GK12-BG01-04.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage012/SL-GK12-BG01-05.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage012/SL-GK12-BG01-06.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1200
+    },
+    {
+      "orient": 1,
+      "scroll": 3270
+    },
+    {
+      "orient": 1,
+      "scroll": 2200
+    },
+    {
+      "orient": 1,
+      "scroll": 3150
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1200
+    },
+    {
+      "orient": 1,
+      "scroll": -3270
+    },
+    {
+      "orient": 2,
+      "scroll": -3030,
+      "bgImgIndex": 2,
+      "vscroll": -1548
+    },
+    {
+      "orient": 1,
+      "scroll": -3150
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 795,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 900,
+      "text": "艾米和蓓蓓需要帮小长颈鹿量身高，你知道哪种测量方法是比较准确的吗？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 620,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 600,
+      "text": "大嘴怪想吃蔬菜了，小朋友帮忙把蔬菜都找出来吧!"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 710,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "你能根据跷跷板两边的数字大小，填入正确的符号吗？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "森林尽头有很多蘑菇，小朋友，数一数篮子里最多有几个蘑菇吧！答对了有惊喜哦！"
+    }
+  ]
+}

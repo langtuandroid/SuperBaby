@@ -1,0 +1,195 @@
+{
+  "index":34,
+  "AimeePosX": 20,
+  "AimeePosY": 776,
+  "BebeiPosX": -200,
+  "BebeiPosY": 760,
+  "npcRounds":
+  [
+     2
+  ],
+  "djcf":"res/common/HY-GK-shuihua/HY-GK-shuihua.gaf",
+  "emptyRound":
+  [
+    0
+  ],
+  "saudio":"res/audio/theme03/stage035/HY-GK11-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme03/stage035/HY-GK11-YX1.mp3",
+      "time": 5
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme03/stage035/HY-GK11-YX2.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme03/stage035/HY-GK11-YX3.mp3",
+      "time": 8
+    },
+    {
+      "source":"res/audio/theme03/stage035/HY-GK11-YX4.mp3",
+      "time": 6
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file":"res/stage035/HY-GK11-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage035/HY-GK11-BG01-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage035/HY-GK11-BG01-03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage035/HY-GK11-BG01-04.png"
+    }
+  ],
+  "foreImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage028/HY-GK-qianjing02_004.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage028/HY-GK-qianjing02_002.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage028/HY-GK-shanhu03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage028/HY-GK-qianjing02_002.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage028/HY-GK-shanhu02-2.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 0
+    },
+    {
+      "orient": 1,
+      "scroll": 900
+    },
+    {
+      "orient": 1,
+      "scroll": 700
+    },
+    {
+      "orient": 1,
+      "scroll": 1920
+    },
+    {
+      "orient": 1,
+      "scroll": 3300
+    },
+    {
+      "orient": 1,
+      "scroll": 3000
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 0
+    },
+    {
+      "orient": 1,
+      "scroll": -1400
+    },
+    {
+      "orient": 1,
+      "scroll": -700
+    },
+    {
+      "orient": 1,
+      "scroll": -1920
+    },
+    {
+      "orient": 1,
+      "scroll": -3300
+    },
+    {
+      "orient": 1,
+      "scroll": -3000
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 1,
+      "posX": 755,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "有一条鱼受伤了，小朋友，你能找出它吗？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 755,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "这里有很多不同颜色的瓶子，你能找出黄颜色的那个吗？"
+    },
+    {
+      "roundIndex": 4,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "海底有一种神奇的植物，你能按照从小到大的生长规律排一排吗？"
+    },
+    {
+      "roundIndex": 5,
+      "posX": 780,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 880,
+      "text": "根据所对应的颜色，你能帮这些小海龟找到各自的家吗？"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage035/HY-GK11-IT.png",
+    "res/stage035/HY-GK11-1-IT01.png",
+    "res/stage035/HY-GK11-1-IT02.png",
+    "res/stage035/HY-GK11-1-IT03.png",
+    "res/stage035/HY-GK11-1-IT04.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage028/HY-GK-paopao01/HY-GK-paopao01.gaf",
+    "res/stage028/HY-GK-guang/HY-GK-guang.gaf",
+    "res/stage035/HY-GK11-1-MS01/HY-GK11-1-MS01.gaf",
+    "res/stage035/HY-GK11-1-MS02/HY-GK11-1-MS02.gaf",
+    "res/stage035/HY-GK11-1-MS03/HY-GK11-1-MS03.gaf"
+  ]
+}

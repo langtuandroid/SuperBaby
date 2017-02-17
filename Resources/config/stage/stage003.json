@@ -1,0 +1,162 @@
+{
+  "index": 2,
+  "AimeePosX": 320,
+  "AimeePosY": 1616,
+  "BebeiPosX": 100,
+  "BebeiPosY": 1600,
+  "npcRounds":
+  [
+    2,
+    5
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "emptyRound":
+  [
+    0,
+    2
+  ],
+  "saudio":"res/audio/theme01/stage003/SL-GK03-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme01/stage003/SL-GK03-YX1.mp3",
+      "time": 7
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme01/stage003/SL-GK03-YX2.mp3",
+      "time": 8
+    },
+    {
+      "source":"res/audio/theme01/stage003/SL-GK03-YX3.mp3",
+      "time": 9
+    },
+    {
+      "source":"res/audio/theme01/stage003/SL-GK03-YX4.mp3",
+      "time": 9
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage003/SL-GK03-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage003/SL-GK03-BG01-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage003/SL-GK03-BG01-03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage003/SL-GK03-BG01-04.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage003/SL-GK03-BG01-05.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 0
+    },
+    {
+      "orient": 1,
+      "scroll": 1450
+    },
+    {
+      "orient": 1,
+      "scroll": 1490
+    },
+    {
+      "orient": 1,
+      "scroll": 2000
+    },
+    {
+      "orient": 1,
+      "scroll": 2520
+    },
+    {
+      "orient": 1,
+      "scroll": 2260
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 0
+    },
+    {
+      "orient": 1,
+      "scroll": -1450
+    },
+    {
+      "orient": 1,
+      "scroll": -1490
+    },
+    {
+      "orient": 1,
+      "scroll": -2000
+    },
+    {
+      "orient": 1,
+      "scroll": -2520
+    },
+    {
+      "orient": 1,
+      "scroll": -2260
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 1,
+      "posX": 680,
+      "posY": 1225,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 680,
+      "text": "这两只相似的大鸟有三处不同，你能分别找出来吗？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 735,
+      "posY": 1225,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "门顶的开关被捣蛋鬼弄丢了，快来帮艾米和蓓蓓把正确的开关装上去吧！"
+    },
+    {
+      "roundIndex": 4,
+      "posX": 735,
+      "posY": 1225,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "小松鼠正在准备过冬的衣服，下面三件哪一件才是最厚、最保暖的呢？"
+    },
+    {
+      "roundIndex": 5,
+      "posX": 790,
+      "posY": 1225,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 900,
+      "text": "按照规律，选择一个正确的方块填入，答对了巨怪人才能放艾米和蓓蓓过去噢！"
+    }
+  ]
+}

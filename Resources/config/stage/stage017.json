@@ -1,0 +1,154 @@
+{
+  "index":16,
+  "AimeePosX": 170,
+  "AimeePosY": 776,
+  "BebeiPosX": -50,
+  "BebeiPosY": 760,
+  "npcRounds":
+  [
+    1
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "emptyRound":
+  [
+    4
+  ],
+  "saudio":"res/audio/theme02/stage017/XQ-GK05-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme02/stage017/XQ-GK05-YX1.mp3",
+      "time": 11
+    },
+    {
+      "source":"res/audio/theme02/stage017/XQ-GK05-YX2.mp3",
+      "time": 8
+    },
+    {
+      "source":"res/audio/theme02/stage017/XQ-GK05-YX3.mp3",
+      "time": 6
+    },
+    {
+      "source":"res/audio/theme02/stage017/XQ-GK05-YX4.mp3",
+      "time": 8
+    },
+    {
+      "source":"",
+      "time": 0
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage017/XQ-GK05-4-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage017/XQ-GK05-4-BG01-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage017/XQ-GK05-4-BG01-03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage017/XQ-GK05-4-BG01-04.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 780
+    },
+    {
+      "orient": 1,
+      "scroll": 3940
+    },
+    {
+      "orient": 1,
+      "scroll": 2900
+    },
+    {
+      "orient": 1,
+      "scroll": 2000
+    },
+    {
+      "orient": 1,
+      "scroll": 1900
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -780
+    },
+    {
+      "orient": 1,
+      "scroll": -3940
+    },
+    {
+      "orient": 1,
+      "scroll": -2900
+    },
+    {
+      "orient": 1,
+      "scroll": -2000
+    },
+    {
+      "orient": 1,
+      "scroll": -1900
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 735,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "外星人正在建房子，夜晚刮风的时候它就不会受冻了，你知道这面墙还缺几块砖头吗？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "想一想，要将这个大正方体补充完整，还需要多少个小方块呢？"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "这里有三卷绳子，你能找出最长的那卷吗？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "切割机要把树干切成三段， 你们知道哪种切法才是正确的呢？"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage017/XQ-GK05-IT.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage017/XQ-GK05-1-MS-D+C/XQ-GK05-1-MS-D+C.gaf",
+    "res/stage017/XQ-GK05-2-MS-D+C/XQ-GK05-2-MS-D+C.gaf",
+    "res/stage017/XQ-GK05-4-IT-D+C/XQ-GK05-4-IT-D+C.gaf"
+  ]
+}

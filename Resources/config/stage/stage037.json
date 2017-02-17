@@ -1,0 +1,162 @@
+{
+  "index":36,
+  "AimeePosX": 170,
+  "AimeePosY": 736,
+  "BebeiPosX": -50,
+  "BebeiPosY": 720,
+  "npcRounds":
+  [
+     1,
+     4
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme04/stage037/GC-GK01-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme04/stage037/GC-GK01-YX1.mp3",
+      "time": 8
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme04/stage037/GC-GK01-YX2.mp3",
+      "time": 8
+    },
+    {
+      "source":"res/audio/theme04/stage037/GC-GK01-YX3.mp3",
+      "time": 8
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme04/stage037/GC-GK01-YX4.mp3",
+      "time": 11
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage037/GC-GK01-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage037/GC-GK01-BG01-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage037/GC-GK01-BG01-03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage037/GC-GK01-BG01-04.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1150
+    },
+    {
+      "orient": 1,
+      "scroll": 1700
+    },
+    {
+      "orient": 1,
+      "scroll": 1250
+    },
+    {
+      "orient": 1,
+      "scroll": 3200
+    },
+    {
+      "orient": 1,
+      "scroll": 1900
+    },
+    {
+      "orient": 1,
+      "scroll": 2300
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1150
+    },
+    {
+      "orient": 1,
+      "scroll": -1700
+    },
+    {
+      "orient": 1,
+      "scroll": -1250
+    },
+    {
+      "orient": 1,
+      "scroll": -3200
+    },
+    {
+      "orient": 1,
+      "scroll": -1900
+    },
+    {
+      "orient": 1,
+      "scroll": -2300
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 670,
+      "posY": 1230,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 690,
+      "text": "远处的群山真漂亮啊！小朋友找出最高的那座山峰吧！"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 735,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "好漂亮的花呀，仔细找找看，你能找到一朵只有4片花瓣的花吗？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "有4个超大的鸟蛋，请把它们放回鸟巢中吧，每个鸟巢要一样多哦。"
+    },
+    {
+      "roundIndex": 5,
+      "posX": 700,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "石碑上有9个格，按照规律填上正确的图案，帮助艾米和蓓蓓打开通关之门吧！"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage037/GC-GK01-IT.png",
+    "res/stage037/GC-GK01-bjzhe.png"
+  ],
+    "preloadGafs":
+  [
+    "res/stage037/GC-GK01-2-TX/GC-GK01-2-TX.gaf"
+  ]
+}

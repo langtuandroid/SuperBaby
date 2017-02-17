@@ -1,0 +1,128 @@
+{
+  "index": 8,
+  "AimeePosX": 170,
+  "AimeePosY": 742,
+  "BebeiPosX": -50,
+  "BebeiPosY": 726,
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme01/stage009/SL-GK09-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme01/stage009/SL-GK09-YX1.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme01/stage009/SL-GK09-YX2.mp3",
+      "time": 14
+    },
+    {
+      "source":"res/audio/theme01/stage009/SL-GK09-YX3.mp3",
+      "time": 10
+    },
+    {
+      "source":"res/audio/theme01/stage009/SL-GK09-YX4.mp3",
+      "time": 11
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage009/SL-GK09-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage009/SL-GK09-BG01-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage009/SL-GK09-BG01-03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage009/SL-GK09-BG01-04.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1200
+    },
+    {
+      "orient": 1,
+      "scroll": 2330
+    },
+    {
+      "orient": 1,
+      "scroll": 2400
+    },
+    {
+      "orient": 1,
+      "scroll": 2300
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1200
+    },
+    {
+      "orient": 1,
+      "scroll": -2330
+    },
+    {
+      "orient": 1,
+      "scroll": -2400
+    },
+    {
+      "orient": 1,
+      "scroll": -2300
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 710,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "空中飞来了一群大雁，其中有一只不同，你能找出来吗？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 900,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 1100,
+      "text": "小刺猬的玩具有飞机和小鸭子，小松鼠的玩具有飞机和风车。你知道哪种玩具是他们共同拥有的吗？"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 730,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 780,
+      "text": "魔法森林里有一幅画缺了一角，快来找出正确的部分将其补充完整吧！"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 840,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 960,
+      "text": "乌鸦口渴了，艾米和蓓蓓在水杯里加了糖块，小朋友找出最甜的一杯给乌鸦吧！"
+    }
+   ],
+    "preloadImgs":
+    [
+     "res/stage009/SL-GK09-BG01-IT.png"
+    ]
+}

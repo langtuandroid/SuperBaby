@@ -1,0 +1,153 @@
+{
+  "index": 5,
+  "AimeePosX": 170,
+  "AimeePosY": 866,
+  "BebeiPosX": -50,
+  "BebeiPosY": 850,
+  "npcRounds":
+  [
+    1,
+    4
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme01/stage006/SL-GK06-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme01/stage006/SL-GK06-YX1.mp3",
+      "time": 8
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme01/stage006/SL-GK06-YX2.mp3",
+      "time": 8
+    },
+    {
+      "source":"res/audio/theme01/stage006/SL-GK06-YX3.mp3",
+      "time": 9
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme01/stage006/SL-GK06-YX4.mp3",
+      "time": 8
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage006/SL-GK06-BG01_001.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage006/SL-GK06-BG01_002.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage006/SL-GK06-BG01_003.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage006/SL-GK06-BG01_004.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1230
+    },
+    {
+      "orient": 1,
+      "scroll": 1500
+    },
+    {
+      "orient": 1,
+      "scroll": 1830
+    },
+    {
+      "orient": 1,
+      "scroll": 3190
+    },
+    {
+      "orient": 1,
+      "scroll": 1500
+    },
+    {
+      "orient": 1,
+      "scroll": 1750
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1230
+    },
+    {
+      "orient": 1,
+      "scroll": -1500
+    },
+    {
+      "orient": 1,
+      "scroll": -1830
+    },
+    {
+      "orient": 1,
+      "scroll": -3190
+    },
+    {
+      "orient": 1,
+      "scroll": -1500
+    },
+    {
+      "orient": 1,
+      "scroll": -1750
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 710,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "箱子里的东西被魔法吸出来了，你能按照分类将它们放回去吗？"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 680,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 690,
+      "text": "有5只蝴蝶，后来又飞来了3只，现在一共有多少只呢？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 840,
+      "text": "毛毛虫的尾巴颜色不见了，你能按照它的颜色规律帮它选择正确的颜色吗？"
+    },
+    {
+      "roundIndex": 5,
+      "posX": 710,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "按照规律，将正确的颜色填入风车的空白处，启动风车开关吧！"
+    }
+  ]
+}

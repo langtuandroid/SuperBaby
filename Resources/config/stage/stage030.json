@@ -1,0 +1,195 @@
+{
+  "index":29,
+  "AimeePosX": 0,
+  "AimeePosY": 776,
+  "BebeiPosX": -220,
+  "BebeiPosY": 760,
+  "npcRounds":
+  [
+     4
+  ],
+  "djcf":"res/common/HY-GK-shuihua/HY-GK-shuihua.gaf",
+  "emptyRound":
+  [
+    0
+  ],
+  "saudio":"res/audio/theme03/stage030/HY-GK06-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme03/stage030/HY-GK06-YX1.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme03/stage030/HY-GK06-YX2.mp3",
+      "time": 9
+    },
+    {
+      "source":"res/audio/theme03/stage030/HY-GK06-YX3.mp3",
+      "time": 8
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme03/stage030/HY-GK06-YX4.mp3",
+      "time": 10
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file":"res/stage030/HY-GK06-BJ_001.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage030/HY-GK06-BJ_002.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage030/HY-GK06-BJ_003.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage030/HY-GK06-BJ_004.png"
+    }
+  ],
+  "foreImg":
+  [
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing01.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_001.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_002.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_003.png"
+    },
+    {
+        "tileOrient": 1,
+        "file": "res/stage028/HY-GK-qianjing02_004.png"
+    }
+   ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 0
+    },
+    {
+      "orient": 1,
+      "scroll": 850
+    },
+    {
+      "orient": 1,
+      "scroll": 2920
+    },
+    {
+      "orient": 1,
+      "scroll": 3300
+    },
+    {
+      "orient": 1,
+      "scroll": 2000
+    },
+    {
+      "orient": 1,
+      "scroll": 1500
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 0
+    },
+    {
+      "orient": 1,
+      "scroll": -1400
+    },
+    {
+      "orient": 1,
+      "scroll": -2920
+    },
+    {
+      "orient": 1,
+      "scroll": -3300
+    },
+    {
+      "orient": 1,
+      "scroll": -2000
+    },
+    {
+      "orient": 1,
+      "scroll": -1500
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 1,
+      "posX": 790,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 900,
+      "text": "蓓蓓要帮海马宝宝量身高，哪一种测量方式才是正确的呢？"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 800,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 920,
+      "text": "艾米和蓓蓓想要找到两个一模一样的贝壳带回家，你能帮助艾米和蓓蓓找一找吗？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 710,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "有一群鱼在慢悠悠地散步，按照大小顺序让他们排成一排吧！"
+    },
+    {
+      "roundIndex": 5,
+      "posX": 800,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 900,
+      "text": "大章鱼想知道水晶石屏幕上有多少个长方形，小朋友快来帮艾米和蓓蓓数一数吧！"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage030/HY-GK06-IT.png",
+    "res/stage030/HY-GK06-4-TM02.png",
+    "res/stage030/HY-GK06-4-TM01.png",
+    "res/stage030/HY-GK06-4-TM03.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage030/HY-GK06-3-MS01-D/HY-GK06-3-MS01-D.gaf",
+    "res/stage030/HY-GK06-3-MS02-D/HY-GK06-3-MS02-D.gaf",
+    "res/stage030/HY-GK06-3-MS03-D+C/HY-GK06-3-MS03-D+C.gaf",
+    "res/stage030/SL-GK10-4-TM01-D+C/SL-GK10-4-TM01-D+C.gaf",
+    "res/stage028/HY-GK-paopao01/HY-GK-paopao01.gaf",
+    "res/stage028/HY-GK-guang/HY-GK-guang.gaf"
+  ]
+}

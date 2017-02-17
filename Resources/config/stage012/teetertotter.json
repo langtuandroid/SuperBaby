@@ -1,0 +1,17 @@
+{
+  "gafFile":"res/stage012/SL-GK12-3-TM01-D+C/SL-GK12-3-TM01-D+C.gaf",
+  "posX":0,
+  "posY":0,
+  "scaleFactor":1.0,
+  "sequenceAlias":
+  [
+    {
+      "alias":"standby",
+      "sequence":"SL-GK12-3-TM01-D"
+    },
+    {
+      "alias":"trigger",
+      "sequence":"SL-GK12-3-TM01-C"
+    }
+  ]
+}

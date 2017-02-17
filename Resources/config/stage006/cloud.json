@@ -1,0 +1,17 @@
+{
+  "gafFile":"res/stage006/SL-GK06-1-IT-D+C/SL-GK06-1-IT-D+C.gaf",
+  "posX":0,
+  "posY":0,
+  "scaleFactor":1.0,
+  "sequenceAlias":
+  [
+    {
+      "alias":"standby",
+      "sequence":"SL-GK06-1-IT-D"
+    },
+    {
+      "alias":"trigger",
+      "sequence":"SL-GK06-1-IT-C"
+    }
+  ]
+}

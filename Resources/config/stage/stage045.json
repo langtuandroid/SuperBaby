@@ -1,0 +1,140 @@
+{
+  "index":44,
+  "AimeePosX": 170,
+  "AimeePosY": 786,
+  "BebeiPosX": -50,
+  "BebeiPosY": 770,
+  "npcRounds":
+  [
+     0,
+     1
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme04/stage045/GC-GK09-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme04/stage045/GC-GK09-YX1.mp3",
+      "time": 6
+    },
+    {
+      "source":"res/audio/theme04/stage045/GC-GK09-YX2.mp3",
+      "time": 9
+    },
+    {
+      "source":"res/audio/theme04/stage045/GC-GK09-YX3.mp3",
+      "time": 8
+    },
+    {
+      "source":"res/audio/theme04/stage045/GC-GK09-YX4.mp3",
+      "time": 9
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage045/GC-GK09-BJ_001.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage045/GC-GK09-BJ_002.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage045/GC-GK09-BJ_003.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage045/GC-GK09-BJ_004.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1250
+    },
+    {
+      "orient": 1,
+      "scroll": 3000
+    },
+    {
+      "orient": 1,
+      "scroll": 3300
+    },
+    {
+      "orient": 1,
+      "scroll": 3300
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1250
+    },
+    {
+      "orient": 1,
+      "scroll": -3000
+    },
+    {
+      "orient": 1,
+      "scroll": -3300
+    },
+    {
+      "orient": 1,
+      "scroll": -3300
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 700,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "这个小矮人刚洗完手，你能把毛巾拿给他吗？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "房间太乱了，小矮人准备打扫卫生，你能帮忙把扫把拿给他吗？"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "热情的主人想用大西瓜来招待远方的客人，快来帮他找出来吧。"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "小矮人给艾米和蓓蓓准备了很多糕点，一起来挑一份红色盒子装的吧。"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage045/GC-GK09-IT.png"
+  ],
+    "preloadGafs":
+  [
+    "res/stage045/GC-GK09-1-MS01-D+C1+C2/GC-GK09-1-MS01-D+C1+C2.gaf",
+    "res/stage045/GC-GK09-2-NPC45-D+C/GC-GK09-2-NPC45-D+C.gaf",
+    "res/stage045/GC-GK09-3-MS-D+C/GC-GK09-3-MS-D+C.gaf",
+    "res/stage045/GC-GK09-4-MS01-D+C/GC-GK09-4-MS01-D+C.gaf"
+  ]
+}

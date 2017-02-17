@@ -1,0 +1,187 @@
+{
+  "index":33,
+  "AimeePosX": 220,
+  "AimeePosY": 1566,
+  "BebeiPosX": 0,
+  "BebeiPosY": 1550,
+  "npcRounds":
+  [
+     2
+  ],
+  "djcf":"res/common/HY-GK-shuihua/HY-GK-shuihua.gaf",
+  "saudio":"res/audio/theme03/stage034/HY-GK10-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme03/stage034/HY-GK10-YX1.mp3",
+      "time": 7
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme03/stage034/HY-GK10-YX2.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme03/stage034/HY-GK10-YX3.mp3",
+      "time": 10
+    },
+    {
+      "source":"res/audio/theme03/stage034/HY-GK10-YX4.mp3",
+      "time": 9
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file":"res/stage034/HY-GK10-BJ_001.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage034/HY-GK10-BJ_002.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage034/HY-GK10-BJ_003.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage034/HY-GK10-BJ_004.png"
+    }
+  ],
+  "foreImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage028/HY-GK-shanhu01-2.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage028/HY-GK-shanhu03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage028/HY-GK-shanhu04.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage028/HY-GK-shanhu05.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 0
+    },
+    {
+      "orient": 1,
+      "scroll": 1850
+    },
+    {
+      "orient": 1,
+      "scroll": 1800
+    },
+    {
+      "orient": 1,
+      "scroll": 1350
+    },
+    {
+      "orient": 1,
+      "scroll": 3000
+    },
+    {
+      "orient": 1,
+      "scroll": 3000
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 0
+    },
+    {
+      "orient": 1,
+      "scroll": -1850
+    },
+    {
+      "orient": 1,
+      "scroll": -1800
+    },
+    {
+      "orient": 1,
+      "scroll": -1350
+    },
+    {
+      "orient":1,
+      "scroll":-3000
+    },
+    {
+      "orient":1,
+      "scroll":-3000
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 1,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "航海地图上有三条去彩虹岛的路线，哪一条路线是最近的呢？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 755,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "小朋友，你们知道这三个船锚，哪一个最短吗？"
+    },
+    {
+      "roundIndex": 4,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "哇，沉船里面有好多宝贝啊！请帮助艾米和蓓蓓拿到第2排第3个宝贝吧。"
+    },
+    {
+      "roundIndex": 5,
+      "posX": 780,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 880,
+      "text": "小朋友，仔细看看下方的齿轮，请选择匹配的齿轮安装到大齿轮上吧！"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage034/HY-GK10-IT.png",
+    "res/stage033/taizi.png",
+    "res/stage034/HY-GK10-1-TM01.png",
+    "res/stage034/HY-GK10-3-IT01.png",
+    "res/stage034/HY-GK10-4-IT01.png",
+    "res/stage034/HY-GK10-4-IT2.png",
+    "res/stage034/HY-GK10-4-IT3.png",
+    "res/stage034/HY-GK10-4-IT4.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage028/HY-GK-paopao01/HY-GK-paopao01.gaf",
+    "res/stage028/HY-GK-guang/HY-GK-guang.gaf"
+  ]
+}

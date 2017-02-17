@@ -1,0 +1,158 @@
+{
+  "index":17,
+  "AimeePosX": 170,
+  "AimeePosY": 776,
+  "BebeiPosX": -50,
+  "BebeiPosY": 760,
+  "npcRounds":
+  [
+    2
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme02/stage018/XQ-GK06-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme02/stage018/XQ-GK06-YX1.mp3",
+      "time": 11
+    },
+    {
+      "source":"res/audio/theme02/stage018/XQ-GK06-YX2.mp3",
+      "time": 9
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme02/stage018/XQ-GK06-YX3.mp3",
+      "time": 6
+    },
+    {
+      "source":"res/audio/theme02/stage018/XQ-GK06-YX4.mp3",
+      "time": 14
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage018/XQ-GK06-BG_01_01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage018/XQ-GK06-BG_01_02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage018/XQ-GK06-BG_01_03.png"
+    },
+    {
+      "tileOrient": 2,
+      "file": "res/stage018/XQ-GK06-BG_01_04.png",
+      "upDown": 1
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage018/XQ-GK06-BG_01_05.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 780
+    },
+    {
+      "orient": 1,
+      "scroll": 3040
+    },
+    {
+      "orient": 1,
+      "scroll": 1900
+    },
+    {
+      "orient": 1,
+      "scroll": 1300
+    },
+    {
+      "orient": 1,
+      "scroll": 1400
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -780
+    },
+    {
+      "orient": 1,
+      "scroll": -3040
+    },
+    {
+      "orient": 1,
+      "scroll": -1900
+    },
+    {
+      "orient": 1,
+      "scroll": -1300
+    },
+    {
+      "orient": 2,
+      "scroll": -1450,
+      "bgImgIndex": 3,
+      "vscroll": -1249
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 735,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "外星人哆哆从树上摘了一朵花，树上还有一朵花和它手中的花是一模一样的，你能帮忙找出来吗？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "哇，好多神奇的豆子啊，你知道这些玻璃瓶中哪瓶豆子数量最多吗？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "这个拼图少了一块，你能找到合适的将它补充完整吗？"
+    },
+    {
+      "roundIndex": 4,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "哎呀，前面过不去了。仔细观察颜色排列规律，将空白处补充完整，外星人咚咚就会放下吊桥让艾米和蓓蓓过去哦。"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage018/XQ-GK06-IT.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage018/XQ-GK06-1-MS-D+C/XQ-GK06-1-MS-D+C.gaf",
+    "res/stage018/XQ-GK06-3-IT-D+C/XQ-GK06-3-IT-D+C.gaf",
+    "res/stage018/XQ-GK06-4-MS-D+C/XQ-GK06-4-MS-D+C.gaf",
+    "res/stage018/XQ-GK06-4-TM01-D/XQ-GK06-4-TM01-D.gaf"
+  ]
+}

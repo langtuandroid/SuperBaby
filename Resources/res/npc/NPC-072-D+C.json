@@ -1,0 +1,27 @@
+{
+  "key":"NPC-072",
+  "gafFile":"res/npc/NPC-072-D+C/NPC-072-D+C.gaf",
+  "posX":-948,
+  "posY":941,
+  "scaleFactor":1.0,
+  "size":
+  {
+    "w":240,
+    "h":240
+  },
+  "sequenceAlias":
+  [
+    {
+      "alias":"sleep",
+      "sequence":"NPC-072-Y"
+    },
+    {
+      "alias":"standby",
+      "sequence":"NPC-072-D"
+    },
+    {
+      "alias":"trigger",
+      "sequence":"NPC-072-C"
+    }
+  ]
+}

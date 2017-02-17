@@ -1,0 +1,40 @@
+{
+  "remoteURL":
+  {
+    "stage":
+    {
+      "url":"http://abelclass.ufile.ucloud.com.cn/res/stage040.zip",
+      "md5":"74a551ab7d53eb64561f0cacb9417dc5"
+    },
+    "audio":
+    {
+      "url":"http://abelclass.ufile.ucloud.com.cn/res/audio/theme04/stage040.zip",
+      "md5":"9ac642230092778cb2d5376859bf05b4"
+    }
+  },
+  "files":
+  {
+    "stage":
+    [
+      "res/stage040/GC-GK04-4-TM03-D+C/GC-GK04-4-TM03-D+C.gaf",
+      "res/stage040/GC-GK04-4-TM03-D+C/GC-GK04-4-TM03-D+C.png",
+      "res/stage040/GC-GK04-4-TM04-D+C/GC-GK04-4-TM04-D+C.gaf",
+      "res/stage040/GC-GK04-4-TM04-D+C/GC-GK04-4-TM04-D+C.png",
+      "res/stage040/GC-GK04-BJ_001.png",
+      "res/stage040/GC-GK04-BJ_002.png",
+      "res/stage040/GC-GK04-BJ_003.png",
+      "res/stage040/GC-GK04-BJ_004.png",
+      "res/stage040/GC-GK04-IT.plist",
+      "res/stage040/GC-GK04-IT.png"
+    ],
+    "audio":
+    [
+      "res/audio/theme04/stage040/GC-GK04-JL.mp3",
+      "res/audio/theme04/stage040/GC-GK04-YX1.mp3",
+      "res/audio/theme04/stage040/GC-GK04-YX2.mp3",
+      "res/audio/theme04/stage040/GC-GK04-YX3.mp3",
+      "res/audio/theme04/stage040/GC-GK04-YX4.mp3"
+    ]
+  }
+}
+

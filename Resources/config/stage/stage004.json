@@ -1,0 +1,150 @@
+{
+  "index": 3,
+  "AimeePosX": 170,
+  "AimeePosY": 866,
+  "BebeiPosX": -50,
+  "BebeiPosY": 850,
+  "npcRounds":
+  [
+    2
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme01/stage004/SL-GK04-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme01/stage004/SL-GK04-YX1.mp3",
+      "time": 8
+    },
+    {
+      "source":"res/audio/theme01/stage004/SL-GK04-YX2.mp3",
+      "time": 6
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme01/stage004/SL-GK04-YX3.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme01/stage004/SL-GK04-YX4.mp3",
+      "time": 9
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage004/SL-GK04-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage004/SL-GK04-BG01-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage004/SL-GK04-BG01-03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage004/SL-GK04-BG01-04.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1630
+    },
+    {
+      "orient": 1,
+      "scroll": 2530
+    },
+    {
+      "orient": 1,
+      "scroll": 1800
+    },
+    {
+      "orient": 1,
+      "scroll": 1090
+    },
+    {
+      "orient": 1,
+      "scroll": 2550
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1630
+    },
+    {
+      "orient": 1,
+      "scroll": -2530
+    },
+    {
+      "orient": 1,
+      "scroll": -1800
+    },
+    {
+      "orient": 1,
+      "scroll": -1090
+    },
+    {
+      "orient": 1,
+      "scroll": -2550
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 640,
+      "posY": 1225,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 630,
+      "text": "兔子小姐有5根萝卜，送给好朋友2根，还剩几根呢？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 680,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 700,
+      "text": "有5栋小房子，小朋友知道哪一栋是最高的吗？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 680,
+      "posY": 1225,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 700,
+      "text": "小青蛙想要演奏一种乐器，它该选择哪一种乐器表演呢？"
+    },
+    {
+      "roundIndex": 4,
+      "posX": 750,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "小猴子不知道哪一段木桩上的绳子长，你能帮它找到最长的那段绳子吗？"
+    }
+   ],
+    "preloadImgs":
+    [
+     "res/stage004/SL-GK04-IT.png"
+     ],
+    "preloadGafs":
+    [
+     "res/stage004/SL-GK04-1-MS01-D+C/SL-GK04-1-MS01-D+C.gaf",
+     "res/stage004/SL-GK04-3-MS01-D+C/SL-GK04-3-MS01-D+C.gaf",
+     "res/stage004/SL-GK04-4-MS01-D+C/SL-GK04-4-MS01-D+C.gaf"
+     ]
+}

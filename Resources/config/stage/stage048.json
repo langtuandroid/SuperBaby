@@ -1,0 +1,171 @@
+{
+  "index":47,
+  "AimeePosX": 170,
+  "AimeePosY": 736,
+  "BebeiPosX": -50,
+  "BebeiPosY": 720,
+  "npcRounds":
+  [
+     1,
+     4
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme04/stage048/GC-GK12-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme04/stage048/GC-GK12-YX1.mp3",
+      "time": 10
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme04/stage048/GC-GK12-YX2.mp3",
+      "time": 6
+    },
+    {
+      "source":"res/audio/theme04/stage048/GC-GK12-YX3.mp3",
+      "time": 7
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme04/stage048/GC-GK12-YX4.mp3",
+      "time": 10
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage048/GC-GK12-BJ_001.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage048/GC-GK12-BJ_002.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage048/GC-GK12-BJ_003.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage048/GC-GK12-BJ_004.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1050
+    },
+    {
+      "orient": 1,
+      "scroll": 2000
+    },
+    {
+      "orient": 1,
+      "scroll": 1550
+    },
+    {
+      "orient": 1,
+      "scroll": 2700
+    },
+    {
+      "orient": 1,
+      "scroll": 1800
+    },
+    {
+      "orient": 1,
+      "scroll": 1300
+    },
+    {
+      "orient": 1,
+      "scroll": 3000
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1050
+    },
+    {
+      "orient": 1,
+      "scroll": -2000
+    },
+    {
+      "orient": 1,
+      "scroll": -1550
+    },
+    {
+      "orient": 1,
+      "scroll": -2700
+    },
+    {
+      "orient": 1,
+      "scroll": -1800
+    },
+    {
+      "orient": 1,
+      "scroll": -1300
+    },
+    {
+      "orient": 1,
+      "scroll": -3000
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "这里有3棵大树，一起来帮艾米和蓓蓓找出最粗的那棵吧。"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "把这些物品放到对应的位置，怎么放最合适呢？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "小朋友，仔细看一看，这个雕塑像哪一种动物呢？"
+    },
+    {
+      "roundIndex": 5,
+      "posX": 740,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "小朋友请通过巧算凑整法，填充所缺数字，帮艾米和蓓蓓启动时空穿梭门吧。"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage048/GC-GK12-IT.png",
+    "res/stage048/GC-GK12-4-IT04.png"
+  ],
+    "preloadGafs":
+  [
+    "res/stage048/GC-GK-12-4-TM-C1+D1+C2+D2/GC-GK-12-4-TM-C1+D1+C2+D2.gaf",
+    "res/stage048/GC-GK12-SJ-C1+C2+C3/GC-GK12-SJ-C1+C2+C3.gaf"
+  ]
+}

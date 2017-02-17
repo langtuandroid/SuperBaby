@@ -1,0 +1,151 @@
+{
+  "index":12,
+  "AimeePosX": 170,
+  "AimeePosY": 936,
+  "BebeiPosX": -50,
+  "BebeiPosY": 920,
+  "npcRounds":
+  [
+    1,
+    2,
+    3
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme02/stage013/XQ-GK01-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme02/stage013/XQ-GK01-YX1.mp3",
+      "time": 11
+    },
+    {
+      "source":"res/audio/theme02/stage013/XQ-GK01-YX2.mp3",
+      "time": 8
+    },
+    {
+      "source":"res/audio/theme02/stage013/XQ-GK01-YX3.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme02/stage013/XQ-GK01-YX4.mp3",
+      "time": 6
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage013/XQ-GK01-BJ1_001.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage013/XQ-GK01-BJ1_002.png"
+    },
+    {
+      "tileOrient": 2,
+      "file": "res/stage013/XQ-GK01-BJ2.png",
+      "upDown": 2
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage013/XQ-GK01-BJ3_001.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage013/XQ-GK01-BJ3_002.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 140
+    },
+    {
+      "orient": 1,
+      "scroll": 2970
+    },
+    {
+      "orient": 1,
+      "scroll": 2320
+    },
+    {
+      "orient": 1,
+      "scroll": 3400
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -140
+    },
+    {
+      "orient": 1,
+      "scroll": -2970
+    },
+    {
+      "orient": 2,
+      "scroll": -3040,
+      "bgImgIndex": 2,
+      "vscroll": 1242
+    },
+    {
+      "orient": 1,
+      "scroll": -3400
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 670,
+      "posY": 1230,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 690,
+      "text": "M星球发射了3驾飞机，根据飞机与基地所对应的颜色,找一找它们是从哪个基地飞出来的呢？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 735,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "小机器人需要选择最近的路线才能搭上回家的飞船,快来帮助它吧！"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "这些机器人真可爱，帮蓓蓓找出与框外相同的机器人吧！"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 700,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "小朋友，将编号为单数的机器人宝宝找出来吧！"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage013/XQ-GK01-1-QJ1.png",
+    "res/stage013/XQ-GK01-1-QJ2.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage013/XQ-GK01-1-DA01-D/XQ-GK01-1-DA01-D.gaf",
+    "res/stage013/XQ-GK01-1-DA02-D/XQ-GK01-1-DA02-D.gaf",
+    "res/stage013/XQ-GK01-1-DA03-D/XQ-GK01-1-DA03-D.gaf",
+    "res/stage013/XQ-GK01-1-MS01-cangmeng1-D+C/XQ-GK01-1-MS01-cangmeng1-D+C.gaf",
+    "res/stage013/XQ-GK01-1-MS01-cangmeng2-D+C/XQ-GK01-1-MS01-cangmeng2-D+C.gaf",
+    "res/stage013/XQ-GK01-1-MS01-cangmeng3-D+C/XQ-GK01-1-MS01-cangmeng3-D+C.gaf"
+  ]
+}

@@ -1,0 +1,516 @@
+[
+  {
+    "key":"NPC-024",
+    "number": 0,
+    "name":"粉羞草",
+    "themeIndex": 0,
+    "gafConfig":"res/npc/NPC-024-D+C.json",
+    "gafFile":"res/npc/NPC-024-D+C/NPC-024-D+C.gaf"
+  },
+  {
+    "key":"NPC-022",
+    "number": 1,
+    "name":"魔球兽",
+    "themeIndex": 0,
+    "gafConfig":"res/npc/NPC-022-D+C.json",
+    "gafFile":"res/npc/NPC-022-D+C/NPC-022-D+C.gaf"
+  },
+  {
+    "key":"NPC-007",
+    "number": 2,
+    "name":"蛋蛋鳄",
+    "themeIndex": 0,
+    "gafConfig":"res/npc/NPC-007-D+C.json",
+    "gafFile":"res/npc/NPC-007-D+C/NPC-007-D+C.gaf",
+    "boss":1
+  },
+  {
+    "key":"NPC-026",
+    "number": 3,
+    "name":"紫阿企",
+    "themeIndex": 0,
+    "gafConfig":"res/npc/NPC-026-D+C.json",
+    "gafFile":"res/npc/NPC-026-D+C/NPC-026-D+C.gaf"
+  },
+  {
+    "key":"NPC-017",
+    "number": 4,
+    "name":"绸丝蛋",
+    "themeIndex": 0,
+    "gafConfig":"res/npc/NPC-017-D+C.json",
+    "gafFile":"res/npc/NPC-017-D+C/NPC-017-D+C.gaf"
+  },
+  {
+    "key":"NPC-010",
+    "number": 5,
+    "name":"巨怪人",
+    "themeIndex": 0,
+    "gafConfig":"res/npc/NPC-010-D+C.json",
+    "gafFile":"res/npc/NPC-010-D+C/NPC-010-D+C.gaf",
+    "boss":1
+  },
+  {
+    "key":"NPC-009",
+    "number": 6,
+    "name":"豆丁",
+    "themeIndex": 0,
+    "gafConfig":"res/npc/NPC-009-D+C.json",
+    "gafFile":"res/npc/NPC-009-D+C/NPC-009-D+C.gaf"
+  },
+  {
+    "key":"NPC-029",
+    "number": 7,
+    "name":"粉帽鸟",
+    "themeIndex": 0,
+    "gafConfig":"res/npc/NPC-029-D+C.json",
+    "gafFile":"res/npc/NPC-029-D+C/NPC-029-D+C.gaf"
+  },
+  {
+    "key":"NPC-013",
+    "number": 8,
+    "name":"火豆蛙",
+    "themeIndex": 0,
+    "gafConfig":"res/npc/NPC-013-D+C.json",
+    "gafFile":"res/npc/NPC-013-D+C/NPC-013-D+C.gaf"
+  },
+  {
+    "key":"NPC-019",
+    "number": 9,
+    "name":"蜜宝",
+    "themeIndex": 0,
+    "gafConfig":"res/npc/NPC-019-D+C.json",
+    "gafFile":"res/npc/NPC-019-D+C/NPC-019-D+C.gaf"
+  },
+  {
+    "key":"NPC-005",
+    "number": 10,
+    "name":"波波兽",
+    "themeIndex": 0,
+    "gafConfig":"res/npc/NPC-005-D+C.json",
+    "gafFile":"res/npc/NPC-005-D+C/NPC-005-D+C.gaf"
+  },
+  {
+    "key":"NPC-032",
+    "number": 11,
+    "name":"绿宝宝",
+    "themeIndex": 0,
+    "gafConfig":"res/npc/NPC-032-D+C.json",
+    "gafFile":"res/npc/NPC-032-D+C/NPC-032-D+C.gaf"
+  },
+  {
+    "key":"NPC-034",
+    "number": 12,
+    "name":"大眼怪",
+    "themeIndex": 0,
+    "gafConfig":"res/npc/NPC-034-D+C.json",
+    "gafFile":"res/npc/NPC-034-D+C/NPC-034-D+C.gaf"
+  },
+  {
+    "key":"NPC-033",
+    "number": 13,
+    "name":"蛋壳怪",
+    "themeIndex": 0,
+    "gafConfig":"res/npc/NPC-033-D+C.json",
+    "gafFile":"res/npc/NPC-033-D+C/NPC-033-D+C.gaf"
+  },
+  {
+    "key":"NPC-067",
+    "number": 14,
+    "name":"蓝皮兽",
+    "themeIndex": 0,
+    "gafConfig":"res/npc/NPC-067-D+C.json",
+    "gafFile":"res/npc/NPC-067-D+C/NPC-067-D+C.gaf"
+  },
+  {
+    "key":"NPC-066",
+    "number": 15,
+    "name":"红毛兽",
+    "themeIndex": 0,
+    "gafConfig":"res/npc/NPC-066-D+C.json",
+    "gafFile":"res/npc/NPC-066-D+C/NPC-066-D+C.gaf"
+  },
+  {
+    "key":"NPC-056",
+    "number": 16,
+    "name":"哔哔哩",
+    "themeIndex": 1,
+    "gafConfig":"res/npc/NPC-056-D+C.json",
+    "gafFile":"res/npc/NPC-056-D+C/NPC-056-D+C.gaf"
+  },
+  {
+    "key":"NPC-054",
+    "number": 17,
+    "name":"小小艾",
+    "themeIndex": 1,
+    "gafConfig":"res/npc/NPC-054-D+C.json",
+    "gafFile":"res/npc/NPC-054-D+C/NPC-054-D+C.gaf"
+  },
+  {
+    "key":"NPC-055",
+    "number": 18,
+    "name":"电池宝",
+    "themeIndex": 1,
+    "gafConfig":"res/npc/NPC-055-D+C.json",
+    "gafFile":"res/npc/NPC-055-D+C/NPC-055-D+C.gaf"
+  },
+  {
+    "key":"NPC-070",
+    "number": 19,
+    "name":"盒子器",
+    "themeIndex": 1,
+    "gafConfig":"res/npc/NPC-070-D+C.json",
+    "gafFile":"res/npc/NPC-070-D+C/NPC-070-D+C.gaf"
+  },
+  {
+    "key":"NPC-072",
+    "number": 20,
+    "name":"胖扫扫",
+    "themeIndex": 1,
+    "gafConfig":"res/npc/NPC-072-D+C.json",
+    "gafFile":"res/npc/NPC-072-D+C/NPC-072-D+C.gaf"
+ },
+ {
+    "key":"NPC-053",
+    "number": 21,
+    "name":"蓝铁皮",
+    "themeIndex": 1,
+    "gafConfig":"res/npc/NPC-053-D+C.json",
+    "gafFile":"res/npc/NPC-053-D+C/NPC-053-D+C.gaf"
+ },
+ {
+    "key":"NPC-071",
+    "number": 22,
+    "name":"克克隆",
+    "themeIndex": 1,
+    "gafConfig":"res/npc/NPC-071-D+C.json",
+    "gafFile":"res/npc/NPC-071-D+C/NPC-071-D+C.gaf"
+ },
+ {
+    "key":"NPC-065",
+    "number": 23,
+    "name":"优浮",
+    "themeIndex": 1,
+    "gafConfig":"res/npc/NPC-065-D+C.json",
+    "gafFile":"res/npc/NPC-065-D+C/NPC-065-D+C.gaf"
+ },
+ {
+    "key":"NPC-059",
+    "number": 24,
+    "name":"桶桶",
+    "themeIndex": 1,
+    "gafConfig":"res/npc/NPC-059-D+C.json",
+    "gafFile":"res/npc/NPC-059-D+C/NPC-059-D+C.gaf"
+ },
+ {
+    "key":"NPC-068",
+    "number": 25,
+    "name":"发条",
+    "themeIndex": 1,
+    "gafConfig":"res/npc/NPC-068-D+C.json",
+    "gafFile":"res/npc/NPC-068-D+C/NPC-068-D+C.gaf"
+ },
+ {
+    "key":"NPC-020",
+    "number": 26,
+    "name":"大眼兽",
+    "themeIndex": 1,
+    "gafConfig":"res/npc/NPC-020-D+C.json",
+    "gafFile":"res/npc/NPC-020-D+C/NPC-020-D+C.gaf"
+ },
+ {
+    "key":"NPC-091",
+    "number": 27,
+    "name":"橙橙龙",
+    "themeIndex": 1,
+    "gafConfig":"res/npc/NPC-091-D+C.json",
+    "gafFile":"res/npc/NPC-091-D+C/NPC-091-D+C.gaf"
+ },
+ {
+    "key":"NPC-069",
+    "number": 28,
+    "name":"大力剪",
+    "themeIndex": 1,
+    "gafConfig":"res/npc/NPC-069-D+C.json",
+    "gafFile":"res/npc/NPC-069-D+C/NPC-069-D+C.gaf"
+ },
+ {
+    "key":"NPC-004",
+    "number": 29,
+    "name":"独眼器",
+    "themeIndex": 1,
+    "gafConfig":"res/npc/NPC-004-D+C.json",
+    "gafFile":"res/npc/NPC-004-D+C/NPC-004-D+C.gaf"
+ },
+ {
+    "key":"NPC-025",
+    "number": 30,
+    "name":"盆盆球",
+    "themeIndex": 2,
+    "gafConfig":"res/npc/NPC-025-D+C.json",
+    "gafFile":"res/npc/NPC-025-D+C/NPC-025-D+C.gaf"
+ },
+ {
+    "key":"NPC-075",
+    "number": 31,
+    "name":"冰淇豹",
+    "themeIndex": 2,
+    "gafConfig":"res/npc/NPC-075-D+C.json",
+    "gafFile":"res/npc/NPC-075-D+C/NPC-075-D+C.gaf"
+ },
+ {
+    "key":"NPC-040",
+    "number": 32,
+    "name":"足球龟",
+    "themeIndex": 2,
+    "gafConfig":"res/npc/NPC-040-D+C.json",
+    "gafFile":"res/npc/NPC-040-D+C/NPC-040-D+C.gaf"
+ },
+ {
+    "key":"NPC-086",
+    "number": 33,
+    "name":"海熊熊",
+    "themeIndex": 2,
+    "gafConfig":"res/npc/NPC-086-D+C.json",
+    "gafFile":"res/npc/NPC-086-D+C/NPC-086-D+C.gaf"
+ },
+ {
+    "key":"NPC-077",
+    "number": 34,
+    "name":"灯泡鱼",
+    "themeIndex": 2,
+    "gafConfig":"res/npc/NPC-077-D+C.json",
+    "gafFile":"res/npc/NPC-077-D+C/NPC-077-D+C.gaf"
+ },
+ {
+    "key":"NPC-076",
+    "number": 35,
+    "name":"庞克海葵",
+    "themeIndex": 2,
+    "gafConfig":"res/npc/NPC-076-D+C.json",
+    "gafFile":"res/npc/NPC-076-D+C/NPC-076-D+C.gaf"
+ },
+ {
+    "key":"NPC-063",
+    "number": 36,
+    "name":"惊讶鱼",
+    "themeIndex": 2,
+    "gafConfig":"res/npc/NPC-063-D+C.json",
+    "gafFile":"res/npc/NPC-063-D+C/NPC-063-D+C.gaf"
+ },
+ {
+    "key":"NPC-089",
+    "number": 37,
+    "name":"魔术虾",
+    "themeIndex": 2,
+    "gafConfig":"res/npc/NPC-089-D+C.json",
+    "gafFile":"res/npc/NPC-089-D+C/NPC-089-D+C.gaf"
+ },
+ {
+    "key":"NPC-062",
+    "number": 38,
+    "name":"兹溜溜",
+    "themeIndex": 2,
+    "gafConfig":"res/npc/NPC-062-D+C.json",
+    "gafFile":"res/npc/NPC-062-D+C/NPC-062-D+C.gaf"
+ },
+ {
+    "key":"NPC-047",
+    "number": 39,
+    "name":"有角章",
+    "themeIndex": 2,
+    "gafConfig":"res/npc/NPC-047-D+C.json",
+    "gafFile":"res/npc/NPC-047-D+C/NPC-047-D+C.gaf"
+ },
+ {
+    "key":"NPC-088",
+    "number": 40,
+    "name":"海毛球",
+    "themeIndex": 2,
+    "gafConfig":"res/npc/NPC-088-D+C.json",
+    "gafFile":"res/npc/NPC-088-D+C/NPC-088-D+C.gaf"
+ },
+ {
+    "key":"NPC-074",
+    "number": 41,
+    "name":"迷藏蟹",
+    "themeIndex": 2,
+    "gafConfig":"res/npc/NPC-074-D+C.json",
+    "gafFile":"res/npc/NPC-074-D+C/NPC-074-D+C.gaf"
+ },
+ {
+    "key":"NPC-064",
+    "number": 42,
+    "name":"米露龟",
+    "themeIndex": 2,
+    "gafConfig":"res/npc/NPC-064-D+C.json",
+    "gafFile":"res/npc/NPC-064-D+C/NPC-064-D+C.gaf"
+ },
+ {
+    "key":"NPC-027",
+    "number": 43,
+    "name":"红咕鸟",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-027-D+C.json",
+    "gafFile":"res/npc/NPC-027-D+C/NPC-027-D+C.gaf"
+ },
+ {
+    "key":"NPC-049",
+    "number": 44,
+    "name":"毛古兽",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-049-D+C.json",
+    "gafFile":"res/npc/NPC-049-D+C/NPC-049-D+C.gaf"
+ },
+ {
+    "key":"NPC-003",
+    "number": 45,
+    "name":"卡比兽",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-003-D+C.json",
+    "gafFile":"res/npc/NPC-003-D+C/NPC-003-D+C.gaf"
+ },
+ {
+    "key":"NPC-008",
+    "number": 46,
+    "name":"比比兽",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-008-D+C.json",
+    "gafFile":"res/npc/NPC-008-D+C/NPC-008-D+C.gaf"
+ },
+ {
+    "key":"NPC-016",
+    "number": 47,
+    "name":"蓝毛兽",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-016-D+C.json",
+    "gafFile":"res/npc/NPC-016-D+C/NPC-016-D+C.gaf"
+ },
+ {
+    "key":"NPC-036",
+    "number": 48,
+    "name":"布卡",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-036-D+C.json",
+    "gafFile":"res/npc/NPC-036-D+C/NPC-036-D+C.gaf"
+ },
+ {
+    "key":"NPC-037",
+    "number": 49,
+    "name":"生气兔",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-037-D+C.json",
+    "gafFile":"res/npc/NPC-037-D+C/NPC-037-D+C.gaf"
+ },
+ {
+    "key":"NPC-039",
+    "number": 50,
+    "name":"哈皮虫",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-039-D+C.json",
+    "gafFile":"res/npc/NPC-039-D+C/NPC-039-D+C.gaf"
+ },
+ {
+    "key":"NPC-061",
+    "number": 51,
+    "name":"宾克狮",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-061-D+C.json",
+    "gafFile":"res/npc/NPC-061-D+C/NPC-061-D+C.gaf"
+ },
+ {
+    "key":"NPC-012",
+    "number": 52,
+    "name":"铛铛铃",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-012-D+C.json",
+    "gafFile":"res/npc/NPC-012-D+C/NPC-012-D+C.gaf"
+ },
+ {
+    "key":"NPC-014",
+    "number": 53,
+    "name":"布布凌",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-014-D+C.json",
+    "gafFile":"res/npc/NPC-014-D+C/NPC-014-D+C.gaf"
+ },
+ {
+    "key":"NPC-042",
+    "number": 54,
+    "name":"音乐鼠",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-042-D+C.json",
+    "gafFile":"res/npc/NPC-042-D+C/NPC-042-D+C.gaf"
+ },
+ {
+    "key":"NPC-060",
+    "number": 55,
+    "name":"艾艾鼠",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-060-D+C.json",
+    "gafFile":"res/npc/NPC-060-D+C/NPC-060-D+C.gaf"
+ },
+ {
+    "key":"NPC-041",
+    "number": 56,
+    "name":"绿条怪",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-041-D+C.json",
+    "gafFile":"res/npc/NPC-041-D+C/NPC-041-D+C.gaf"
+ },
+ {
+    "key":"NPC-011",
+    "number": 57,
+    "name":"罗罗草",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-011-D+C.json",
+    "gafFile":"res/npc/NPC-011-D+C/NPC-011-D+C.gaf"
+ },
+ {
+    "key":"NPC-050",
+    "number": 58,
+    "name":"三眼怪",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-050-D+C.json",
+    "gafFile":"res/npc/NPC-050-D+C/NPC-050-D+C.gaf"
+ },
+ {
+    "key":"NPC-045",
+    "number": 59,
+    "name":"黑琪琪",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-045-D+C.json",
+    "gafFile":"res/npc/NPC-045-D+C/NPC-045-D+C.gaf"
+ },
+ {
+    "key":"NPC-021",
+    "number": 60,
+    "name":"丹丹兽",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-021-D+C.json",
+    "gafFile":"res/npc/NPC-021-D+C/NPC-021-D+C.gaf"
+ },
+ {
+    "key":"NPC-043",
+    "number": 61,
+    "name":"卷卷兽",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-043-D+C.json",
+    "gafFile":"res/npc/NPC-043-D+C/NPC-043-D+C.gaf"
+ },
+ {
+    "key":"NPC-051",
+    "number": 62,
+    "name":"守护鸟",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-051-D+C.json",
+    "gafFile":"res/npc/NPC-051-D+C/NPC-051-D+C.gaf"
+ },
+ {
+    "key":"NPC-028",
+    "number": 63,
+    "name":"丸丸子",
+    "themeIndex": 3,
+    "gafConfig":"res/npc/NPC-028-D+C.json",
+    "gafFile":"res/npc/NPC-028-D+C/NPC-028-D+C.gaf"
+ }
+]

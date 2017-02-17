@@ -1,0 +1,178 @@
+{
+  "index":35,
+  "AimeePosX": 120,
+  "AimeePosY": 776,
+  "BebeiPosX": -100,
+  "BebeiPosY": 760,
+  "npcRounds":
+  [
+     2
+  ],
+  "djcf":"res/common/HY-GK-shuihua/HY-GK-shuihua.gaf",
+  "saudio":"res/audio/theme03/stage036/HY-GK12-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme03/stage036/HY-GK12-YX1.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme03/stage036/HY-GK12-YX2.mp3",
+      "time": 8
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme03/stage036/HY-GK12-YX3.mp3",
+      "time": 8
+    },
+    {
+      "source":"res/audio/theme03/stage036/HY-GK12-YX4.mp3",
+      "time": 7
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file":"res/stage036/HY-GK12-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage036/HY-GK12-BG01-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage036/HY-GK12-BG01-03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage036/HY-GK12-BG01-04.png"
+    }
+  ],
+  "foreImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage028/HY-GK-shanhu02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage028/HY-GK-qianjing02_002.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage028/HY-GK-qianjing02_003.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage028/HY-GK-shanhu03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage028/HY-GK-shanhu05.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage028/HY-GK-shanhu03.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1200
+    },
+    {
+      "orient": 1,
+      "scroll": 3000
+    },
+    {
+      "orient": 1,
+      "scroll": 1500
+    },
+    {
+      "orient": 1,
+      "scroll": 1420
+    },
+    {
+      "orient": 1,
+      "scroll": 2800
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1200
+    },
+    {
+      "orient": 1,
+      "scroll": -3000
+    },
+    {
+      "orient": 1,
+      "scroll": -1500
+    },
+    {
+      "orient": 1,
+      "scroll": -1420
+    },
+    {
+      "orient": 1,
+      "scroll": -2800
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "哇！两条好大的小丑鱼啊，你能找出它们身上的两处不同吗？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 755,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "小海怪有一个大鸡腿，它想把它分成3份，应该切几次呢？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "小海怪吃完东西将垃圾扔在了地上，请将它们分类放进垃圾箱吧！"
+    },
+    {
+      "roundIndex": 4,
+      "posX": 780,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 880,
+      "text": "潜水艇的零部件散落在了地上，请将它们重新组装好吧！ "
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage036/HY-GK12-IT.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage028/HY-GK-paopao01/HY-GK-paopao01.gaf",
+    "res/stage028/HY-GK-guang/HY-GK-guang.gaf",
+    "res/stage036/HY-GK12-2-TM/HY-GK12-2-TM.gaf",
+    "res/stage036/HY-GK12-4-IT-D1+C1+C2/HY-GK12-4-IT-D1+C1+C2.gaf"
+  ]
+}

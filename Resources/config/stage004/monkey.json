@@ -1,0 +1,17 @@
+{
+  "gafFile":"res/stage004/SL-GK04-4-MS01-D+C/SL-GK04-4-MS01-D+C.gaf",
+  "posX":0,
+  "posY":0,
+  "scaleFactor":1.0,
+  "sequenceAlias":
+  [
+    {
+      "alias":"trigger",
+      "sequence":"SL-GK04-4-MS01-D"
+    },
+    {
+      "alias":"standby",
+      "sequence":"SL-GK04-4-MS01-C"
+    }
+  ]
+}

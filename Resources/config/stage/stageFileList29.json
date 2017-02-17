@@ -1,0 +1,37 @@
+{
+  "remoteURL":
+  {
+    "stage":
+    {
+      "url":"http://abelclass.ufile.ucloud.com.cn/res/stage029.zip",
+      "md5":"76bcf0282a9d4749c2a85dd20fd0c1b5"
+    },
+    "audio":
+    {
+      "url":"http://abelclass.ufile.ucloud.com.cn/res/audio/theme03/stage029.zip",
+      "md5":"f58860ed4a59b57d20b51a3127b8e963"
+    }
+  },
+  "files":
+  {
+    "stage":
+    [
+      "res/stage029/HY-GK05-1-MS01-D/HY-GK05-1-MS01-D.gaf",
+      "res/stage029/HY-GK05-1-MS01-D/HY-GK05-1-MS01-D.png",
+      "res/stage029/HY-GK05-BG_001.png",
+      "res/stage029/HY-GK05-BG_002.png",
+      "res/stage029/HY-GK05-BG_003.png",
+      "res/stage029/HY-GK05-BG_004.png",
+      "res/stage029/HY-GK05-IT.plist",
+      "res/stage029/HY-GK05-IT.png"
+    ],
+    "audio":
+    [
+      "res/audio/theme03/stage029/HY-GK05-JL.mp3",
+      "res/audio/theme03/stage029/HY-GK05-YX1.mp3",
+      "res/audio/theme03/stage029/HY-GK05-YX2.mp3",
+      "res/audio/theme03/stage029/HY-GK05-YX3.mp3",
+      "res/audio/theme03/stage029/HY-GK05-YX4.mp3"
+    ]
+  }
+}

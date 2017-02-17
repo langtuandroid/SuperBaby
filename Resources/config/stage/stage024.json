@@ -1,0 +1,157 @@
+{
+  "index":23,
+  "AimeePosX": 170,
+  "AimeePosY": 876,
+  "BebeiPosX": -50,
+  "BebeiPosY": 860,
+  "npcRounds":
+  [
+     2
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme02/stage024/XQ-GK12-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme02/stage024/XQ-GK12-YX1.mp3",
+      "time": 10
+    },
+    {
+      "source":"res/audio/theme02/stage024/XQ-GK12-YX2.mp3",
+      "time": 11
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme02/stage024/XQ-GK12-YX3.mp3",
+      "time": 10
+    },
+    {
+      "source":"res/audio/theme02/stage024/XQ-GK12-YX4.mp3",
+      "time": 15
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file":"res/stage024/XQ-GK12-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage024/XQ-GK12-BG01-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage024/XQ-GK12-BG01-03.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage024/XQ-GK12-BG01-04.png"
+    },
+    {
+      "tileOrient": 1,
+      "file":"res/stage024/XQ-GK12-BG01-05.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 700
+    },
+    {
+      "orient": 1,
+      "scroll": 3960
+    },
+    {
+      "orient": 1,
+      "scroll": 1820
+    },
+    {
+      "orient": 1,
+      "scroll": 1000
+    },
+    {
+      "orient": 1,
+      "scroll": 3500
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -700
+    },
+    {
+      "orient": 1,
+      "scroll": -3960
+    },
+    {
+      "orient": 1,
+      "scroll": -1820
+    },
+    {
+      "orient": 1,
+      "scroll": -1000
+    },
+    {
+      "orient": 1,
+      "scroll": -3500
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 760,
+      "posY": 1230,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "几个可爱的小机器人在这晒太阳呢，咦，好像有一个影子不对哦，你能找出来吗？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "调皮的外星人把桥弄坏了，只有将算式正确的那块板子铺上去，艾米和蓓蓓才能顺利通过哦。"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 960,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 1180,
+      "text": "两个长得很像的机器人来欢送艾米和蓓蓓的星球之旅，仔细观察它们，你能找到3处不同吗？"
+    },
+    {
+      "roundIndex": 4,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "艾米和蓓蓓准备坐飞船离开了，出发前需要给飞船装上多功能电池，你知道这艘飞船需要装多少节电池吗？快将电池装上去吧！"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage024/XQ-GK12-IT.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage024/XQ-GK12-1-MS01/XQ-GK12-1-MS01.gaf",
+    "res/stage024/XQ-GK12-1-MS02/XQ-GK12-1-MS02.gaf",
+    "res/stage024/XQ-GK12-1-MS03/XQ-GK12-1-MS03.gaf",
+    "res/stage024/XQ-GK12-3-MS-D+C/XQ-GK12-3-MS-D+C.gaf",
+    "res/stage024/XQ-GK12-4-TM-D+C1+C2/XQ-GK12-4-TM-D+C1+C2.gaf",
+    "res/stage024/XQ-GK12-BS/XQ-GK12-BS.gaf"
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "index":37,
+  "AimeePosX": 170,
+  "AimeePosY": 736,
+  "BebeiPosX": -50,
+  "BebeiPosY": 720,
+  "npcRounds":
+  [
+     0,
+     2
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme04/stage038/GC-GK02-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme04/stage038/GC-GK02-YX1.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme04/stage038/GC-GK02-YX2.mp3",
+      "time": 10
+    },
+    {
+      "source":"",
+      "time": 0
+    },
+    {
+      "source":"res/audio/theme04/stage038/GC-GK02-YX3.mp3",
+      "time": 9
+    },
+    {
+      "source":"res/audio/theme04/stage038/GC-GK02-YX4.mp3",
+      "time": 13
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage038/GC-GK02-BG01-01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage038/GC-GK02-BG01-02.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage038/GC-GK02-BG01-03.png"
+    },
+    {
+      "tileOrient": 2,
+      "file": "res/stage038/GC-GK02-BG01-04.png",
+      "upDown": 2
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage038/GC-GK02-BG01-05.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 650
+    },
+    {
+      "orient": 1,
+      "scroll": 3400
+    },
+    {
+      "orient": 1,
+      "scroll": 1500
+    },
+    {
+      "orient": 1,
+      "scroll": 1900
+    },
+    {
+      "orient": 1,
+      "scroll": 1700
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -650
+    },
+    {
+      "orient": 1,
+      "scroll": -3400
+    },
+    {
+      "orient": 1,
+      "scroll": -1500
+    },
+    {
+      "orient": 1,
+      "scroll": -1900
+    },
+    {
+      "orient": 2,
+      "scroll": -2300,
+      "bgImgIndex": 3,
+      "vscroll": 1565
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 670,
+      "posY": 1230,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 690,
+      "text": "山洞里好黑呀，艾米的包包里有哪样工具可以照明呢?"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 700,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 750,
+      "text": "有一群蝙蝠倒挂在石壁上，数一数它们有几只呢？小心点，别惊动它们。"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "石壁上留着许多手印。仔细看，有两个手印一样，你能找出来吗？"
+    },
+    {
+      "roundIndex": 4,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "三个树桩挡住了去路，只有帮小怪兽把相应的字母填到树干上面，它才会帮你拉动机关哦！"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage038/GC-GK02-IT.png"
+  ],
+    "preloadGafs":
+  [
+    "res/stage038/GC-GK02-2-MS01-D+C/GC-GK02-2-MS01-D+C.gaf",
+    "res/stage038/GC-GK02-4-MS01-D+C/GC-GK02-4-MS01-D+C.gaf",
+    "res/npc/NPC-003-D+C/NPC-003-D+C.gaf"
+  ]
+}

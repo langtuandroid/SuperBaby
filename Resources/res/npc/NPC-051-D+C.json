@@ -1,0 +1,27 @@
+{
+  "key":"NPC-051",
+  "gafFile":"res/npc/NPC-051-D+C/NPC-051-D+C.gaf",
+  "posX":-958,
+  "posY":993,
+  "scaleFactor":1.0,
+  "size":
+  {
+    "w":240,
+    "h":240
+  },
+  "sequenceAlias":
+  [
+    {
+      "alias":"sleep",
+      "sequence":"NPC-051-Y"
+    },
+    {
+      "alias":"standby",
+      "sequence":"NPC-051-D"
+    },
+    {
+      "alias":"trigger",
+      "sequence":"NPC-051-C"
+    }
+  ]
+}

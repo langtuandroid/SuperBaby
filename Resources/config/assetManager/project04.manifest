@@ -1,0 +1,12 @@
+{
+  "packageUrl":"http://abelclass.ufile.ucloud.com.cn/",
+  "remoteManifestUrl":"http://abelclass.ufile.ucloud.com.cn/project04.manifest",
+  "remoteVersionUrl":"http://abelclass.ufile.ucloud.com.cn/version04.manifest",
+  "version":"1.0.0",
+  "engineVersion":"cocos2dx 3.6",
+  "assets":{},
+  "searchPaths":
+  [
+    "update/"
+  ]
+}

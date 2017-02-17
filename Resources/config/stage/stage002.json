@@ -1,0 +1,149 @@
+{
+  "index": 1,
+  "AimeePosX": 170,
+  "AimeePosY": 866,
+  "BebeiPosX": -50,
+  "BebeiPosY": 850,
+  "npcRounds":
+  [
+    0,
+    2
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "emptyRound":
+  [
+    4
+  ],
+  "saudio":"res/audio/theme01/stage002/SL-GK02-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme01/stage002/SL-GK02-YX1.mp3",
+      "time": 10
+    },
+    {
+      "source":"res/audio/theme01/stage002/SL-GK02-YX2.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme01/stage002/SL-GK02-YX3.mp3",
+      "time": 8
+    },
+    {
+      "source":"res/audio/theme01/stage002/SL-GK02-YX4.mp3",
+      "time": 8
+    },
+    {
+      "source":"",
+      "time": 0
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage002/SL-GK02-BG01_001.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage002/SL-GK02-BG01_002.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage002/SL-GK02-BG01_003.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage002/SL-GK02-BG01_004.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage002/SL-GK02-BG01_005.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1330
+    },
+    {
+      "orient": 1,
+      "scroll": 2230
+    },
+    {
+      "orient": 1,
+      "scroll": 2190
+    },
+    {
+      "orient": 1,
+      "scroll": 2850
+    },
+    {
+      "orient": 1,
+      "scroll": 2350
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1330
+    },
+    {
+      "orient": 1,
+      "scroll": -2230
+    },
+    {
+      "orient": 1,
+      "scroll": -2190
+    },
+    {
+      "orient": 1,
+      "scroll": -2850
+    },
+    {
+      "orient": 1,
+      "scroll": -1800
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 730,
+      "posY": 1225,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 790,
+      "text": "精灵树能结出不同种类的水果，好神奇啊！数量最多的水果是哪一种呢？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 680,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 700,
+      "text": "七彩花的好朋友蝴蝶走丢了，帮助艾米和蓓蓓找到它吧！"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 710,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 730,
+      "text": "这里有4只蚂蚁，其中有一只不同，帮助艾米和蓓蓓找出来吧！"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 670,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 700,
+      "text": "鸟窝里的蛋被弄乱了，我们一起来把正确的蛋放进鸟窝吧！"
+    }
+  ]
+}

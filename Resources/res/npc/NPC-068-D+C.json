@@ -1,0 +1,27 @@
+{
+  "key":"NPC-068",
+  "gafFile":"res/npc/NPC-068-D+C/NPC-068-D+C.gaf",
+  "posX":-957,
+  "posY":959,
+  "scaleFactor":0.9,
+  "size":
+  {
+    "w":240,
+    "h":240
+  },
+  "sequenceAlias":
+  [
+    {
+      "alias":"sleep",
+      "sequence":"NPC-068-Y"
+    },
+    {
+      "alias":"standby",
+      "sequence":"NPC-068-D"
+    },
+    {
+      "alias":"trigger",
+      "sequence":"NPC-068-C"
+    }
+  ]
+}

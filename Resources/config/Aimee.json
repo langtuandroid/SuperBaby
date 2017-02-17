@@ -1,0 +1,29 @@
+{
+  "gafFile":"res/common/Aimee/Aimee-zuhe.gaf",
+  "posX":0,
+  "posY":0,
+  "scaleFactor":1.0,
+  "sequenceAlias":
+  [
+    {
+      "alias":"wait",
+      "sequence":"Aimee-wait"
+    },
+    {
+      "alias":"walk",
+      "sequence":"Aimee-walk"
+    },
+    {
+      "alias":"unhappy",
+      "sequence":"Aimee-unhappy"
+    },
+    {
+      "alias":"happy",
+      "sequence":"Aimee-happy"
+    },
+    {
+      "alias":"jump",
+      "sequence":"Aimee-tiao"
+    }
+  ]
+}

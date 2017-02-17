@@ -1,0 +1,22 @@
+{
+  "gafFile":"res/stage021/XQ-GK09-1-MS01-D+C/XQ-GK09-1-MS01-D+C.gaf",
+  "posX":-910,
+  "posY":873,
+  "scaleFactor":1.0,
+  "size":
+  {
+    "w":240,
+    "h":240
+  },
+  "sequenceAlias":
+  [
+    {
+      "alias":"standby",
+      "sequence":"XQ-GK09-1-MS01-D"
+    },
+    {
+      "alias":"trigger",
+      "sequence":"XQ-GK09-1-MS01-C"
+    }
+  ]
+}

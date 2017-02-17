@@ -1,0 +1,37 @@
+{
+  "remoteURL":
+  {
+    "stage":
+    {
+      "url":"http://abelclass.ufile.ucloud.com.cn/res/stage033.zip",
+      "md5":"3d979a48b53c2ef74163ee99acd6a132"
+    },
+    "audio":
+    {
+      "url":"http://abelclass.ufile.ucloud.com.cn/res/audio/theme03/stage033.zip",
+      "md5":"c423e202904b1492a57213f818e46347"
+    }
+  },
+  "files":
+  {
+    "stage":
+    [
+      "res/stage033/HY-GK09-BG-01.png",
+      "res/stage033/HY-GK09-BG-02.png",
+      "res/stage033/HY-GK09-BG-03.png",
+      "res/stage033/HY-GK09-BG-04.png",
+      "res/stage033/HY-GK09-BG-05.png",
+      "res/stage033/HY-GK09-IT.plist",
+      "res/stage033/HY-GK09-IT.png",
+      "res/stage033/taizi.png"
+    ],
+    "audio":
+    [
+      "res/audio/theme03/stage033/HY-GK09-JL.mp3",
+      "res/audio/theme03/stage033/HY-GK09-YX1.mp3",
+      "res/audio/theme03/stage033/HY-GK09-YX2.mp3",
+      "res/audio/theme03/stage033/HY-GK09-YX3.mp3",
+      "res/audio/theme03/stage033/HY-GK09-YX4.mp3"
+    ]
+  }
+}

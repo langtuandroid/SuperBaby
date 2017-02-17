@@ -1,0 +1,22 @@
+{
+  "gafFile":"res/stage022/XQ-GK10-2-TM02-D+C/XQ-GK10-2-TM02-D+C.gaf",
+  "posX":-356,
+  "posY":870,
+  "scaleFactor":1.0,
+  "size":
+  {
+    "w":240,
+    "h":400
+  },
+  "sequenceAlias":
+  [
+    {
+      "alias":"standby",
+      "sequence":"XQ-GK10-2-TM02-D"
+    },
+    {
+      "alias":"trigger",
+      "sequence":"XQ-GK10-2-TM02-C"
+    }
+  ]
+}

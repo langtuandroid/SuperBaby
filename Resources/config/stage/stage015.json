@@ -1,0 +1,157 @@
+{
+  "index":14,
+  "AimeePosX": 170,
+  "AimeePosY": 876,
+  "BebeiPosX": -50,
+  "BebeiPosY": 860,
+  "npcRounds":
+  [
+    0,
+    3
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "emptyRound":
+  [
+    4
+  ],
+  "saudio":"res/audio/theme02/stage015/XQ-GK03-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme02/stage015/XQ-GK03-YX1.mp3",
+      "time": 13
+    },
+    {
+      "source":"res/audio/theme02/stage015/XQ-GK03-YX2.mp3",
+      "time": 8
+    },
+    {
+      "source":"res/audio/theme02/stage015/XQ-GK03-YX3.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme02/stage015/XQ-GK03-YX4.mp3",
+      "time": 18
+   },
+   {
+      "source":"",
+      "time": 0
+   }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage015/XQ-GK03-01_001.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage015/XQ-GK03-01_002.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage015/XQ-GK03-01_003.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage015/XQ-GK03-01_004.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1240
+    },
+    {
+      "orient": 1,
+      "scroll": 2940
+    },
+    {
+      "orient": 1,
+      "scroll": 2900
+    },
+    {
+      "orient": 1,
+      "scroll": 3080
+    },
+    {
+      "orient": 1,
+      "scroll": 1300
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1240
+    },
+    {
+      "orient": 1,
+      "scroll": -2940
+    },
+    {
+      "orient": 1,
+      "scroll": -2900
+    },
+    {
+      "orient": 1,
+      "scroll": -3080
+    },
+    {
+      "orient": 1,
+      "scroll": -1350
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 945,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 1180,
+      "text": "艾米和蓓蓓需要找到一个机器人问路，它的身体是红色的，脖子上围了一个三角形的围巾，你能帮他们找出来吗？"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 735,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "哇，好高的三座房子啊！其中有两栋是一样的哦，你发现了吗？"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "请帮外星人找一找，下列图中与其它图片不同的一张吧。"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "外星人要和艾米玩一个换物游戏，一只小熊可以换两个小机器人，一个小机器人可以换2块积木，小朋友们，你们知道一只小熊可以换几块积木吗？ "
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage015/XQ-GK03-IT.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage015/XQ-GK03-1-DA01-D+C/XQ-GK03-1-DA01-D+C.gaf",
+    "res/stage015/XQ-GK03-1-DA02/XQ-GK03-1-DA02.gaf",
+    "res/stage015/XQ-GK03-1-DA03/XQ-GK03-1-DA03.gaf",
+    "res/stage015/XQ-GK05-2-MS02-D+C/XQ-GK05-2-MS02-D+C.gaf",
+    "res/stage015/XQ-GK03-3-IT01/XQ-GK03-3-IT01.gaf"
+  ]
+}

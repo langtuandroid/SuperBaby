@@ -1,0 +1,150 @@
+{
+  "index":18,
+  "AimeePosX": 170,
+  "AimeePosY": 856,
+  "BebeiPosX": -50,
+  "BebeiPosY": 840,
+  "npcRounds":
+  [
+    1
+  ],
+  "djcf":"res/common/SL-dianjichufa/SL-dianjichufa.gaf",
+  "saudio":"res/audio/theme02/stage019/XQ-GK07-JL.mp3",
+  "qaudio":
+  [
+    {
+      "source":"res/audio/theme02/stage019/XQ-GK07-YX1.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme02/stage019/XQ-GK07-YX2.mp3",
+      "time": 7
+    },
+    {
+      "source":"res/audio/theme02/stage019/XQ-GK07-YX3.mp3",
+      "time": 9
+    },
+    {
+      "source":"res/audio/theme02/stage019/XQ-GK07-YX4.mp3",
+      "time": 11
+    }
+  ],
+  "bgImg":
+  [
+    {
+      "tileOrient": 1,
+      "file": "res/stage019/XQ-GK07-BG_01.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage019/XQ-GK07-BG_02.png"
+    },
+    {
+      "tileOrient": 2,
+      "file": "res/stage019/XQ-GK07-BG_03.png",
+      "upDown": 1,
+      "leftPadding": 0,
+      "rightPadding": 0
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage019/XQ-GK07-BG_04.png"
+    },
+    {
+      "tileOrient": 1,
+      "file": "res/stage019/XQ-GK07-BG_05.png"
+    }
+  ],
+  "LeadActorScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": 1280
+    },
+    {
+      "orient": 1,
+      "scroll": 3040
+    },
+    {
+      "orient": 1,
+      "scroll": 1900
+    },
+    {
+      "orient": 1,
+      "scroll": 2600
+    }
+  ],
+  "roundScroll":
+  [
+    {
+      "orient": 1,
+      "scroll": -1280
+    },
+    {
+      "orient": 1,
+      "scroll": -3040
+    },
+    {
+      "orient": 2,
+      "scroll": -1900,
+      "bgImgIndex": 2,
+      "vscroll": -1536
+    },
+    {
+      "orient": 1,
+      "scroll": -2600
+    }
+  ],
+  "roundText":
+  [
+    {
+      "roundIndex": 0,
+      "posX": 735,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 800,
+      "text": "选择正确的图形，将能量柱上面所缺失的图形补充完整。"
+    },
+    {
+      "roundIndex": 1,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "按照规律将所缺的数字补充完整，可以唤醒沉睡的机器人哦。"
+    },
+    {
+      "roundIndex": 2,
+      "posX": 760,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 830,
+      "text": "外星人1号想去踢足球，但是球的种类太多了，你能帮他找出哪个是足球吗？"
+    },
+    {
+      "roundIndex": 3,
+      "posX": 820,
+      "posY": 1220,
+      "fontSize": 48,
+      "fontFile": "fonts/DFGBHBC_0.TTC",
+      "maxLineWidth": 950,
+      "text": "哇塞！机器人小白给大家准备了很多礼物，蓓蓓想要正方体盒子包装的，快来帮她找出来吧！"
+    }
+  ],
+  "preloadImgs":
+  [
+    "res/stage019/XQ-GK07-IT.png"
+  ],
+  "preloadGafs":
+  [
+    "res/stage019/XQ-GK07-1-dimian-D+C/XQ-GK07-1-dimian-D+C.gaf",
+    "res/stage019/XQ-GK07-1-zhuzi/XQ-GK07-1-zhuzi.gaf",
+    "res/stage019/XQ-GK07-2-IT02 -D+C/XQ-GK07-2-IT02 -D+C.gaf",
+    "res/stage019/XQ-GK07-2-NPC/XQ-GK07-2-NPC.gaf",
+    "res/stage019/XQ-GK07-3-MS01-D+C/XQ-GK07-3-MS01-D+C.gaf",
+    "res/stage019/XQ-GK07-4-MS01-D/XQ-GK07-4-MS01-D.gaf"
+  ]
+}
